@@ -1,0 +1,771 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present state of Genova with the articles of the treaty of Cession to the French king, and an account of the late actions of the French fleet, before it, and ofthe damages there sustain'd by the bombs and carcasses. To which is added, a letter from the Republick of Genova to the City of Argiers upon that subject.</title>
+            <author>Leti, Gregorio, 1630-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 54 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47958</idno>
+            <idno type="STC">Wing L1339</idno>
+            <idno type="STC">ESTC R217652</idno>
+            <idno type="EEBO-CITATION">99829307</idno>
+            <idno type="PROQUEST">99829307</idno>
+            <idno type="VID">33744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47958)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33744)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1869:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present state of Genova with the articles of the treaty of Cession to the French king, and an account of the late actions of the French fleet, before it, and ofthe damages there sustain'd by the bombs and carcasses. To which is added, a letter from the Republick of Genova to the City of Argiers upon that subject.</title>
+                  <author>Leti, Gregorio, 1630-1701.</author>
+               </titleStmt>
+               <extent>[2], 103, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Randall Taylor near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Gregorio Leti.</note>
+                  <note>Does not in fact contain the "Letter from the Republick of Genova to the City of Argiers".</note>
+                  <note>Reproduction of the original in the Christ Church Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Genoa (Italy) --  History --  1528-1789 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33744:1" rendition="simple:additions"/>
+            <p>THE <hi>Preſent State</hi> OF <hi>GENO<g ref="char:V">Ʋ</g>A,</hi> WITH THE ARTICLES OF THE Treaty of Ceſſion TO THE FRENCH KING, AND An Account of the late ACTIONS of the <hi>French</hi> Fleet, before it, and of the Damages there ſuſtain'd by the Bombs and Carcaſſes.</p>
+            <p>To which is added, A LETTER from the Republick of <hi>Genoua</hi> to the City of <hi>Argiers</hi> upon that Subject.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Randall Taylor</hi> near <hi>Stationers-Hall.</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33744:2"/>
+            <pb n="1" facs="tcp:33744:2"/>
+            <head>THE Preſent State OF GENOA.</head>
+            <div n="1-50" type="pages">
+               <p>
+                  <seg rend="decorInit">O</seg>F all Countries in the world,<note place="margin">The ſituation of <hi>Genoa.</hi>
+                  </note> the Territory of <hi>GENOA</hi> ſeems to be the moſt abandon<g ref="char:EOLhyphen"/>ed of Nature, but inſtead thereof, above all others, the moſt aſſiſted by humane Induſtry: ſince among the dry ſands of a barren Sea, and the high cliffs of craggy and bare Mountains, men have built one of the ſtatelieſt Cities in the Earth, filled it with magnificent Palaces, adorned it with pompous publick Structures, enriched it
+<pb n="2" facs="tcp:33744:3"/> with exquiſite Pictures, ineſtima<g ref="char:EOLhyphen"/>ble Statues, precious Furniture; planted about it the moſt delight<g ref="char:EOLhyphen"/>full Gardens of <hi>Europe,</hi> and in a word, ſeeing all that can con<g ref="char:EOLhyphen"/>tribute to Pleaſure, and ſupport Luxury, is there to be found in abundance: The truth is, he that caſts his eyes upon the ſumptuous palaces that make the New-ſtreet, and that of <hi>Balbi,</hi> muſt confeſs, that the meaneſt of them is fit to re<g ref="char:EOLhyphen"/>ceive the Greateſt Prince in the World.</p>
+               <p>
+                  <note place="margin">Its original.</note>The City of <hi>Genoa</hi> is ſo ancient, that it is impoſſible to trace it to its original; ſome concluding from conjecture and ſome alluſion of name,<note place="margin">Janua.</note> attribute the foundation thereof to <hi>Janus,</hi> tho in all ap<g ref="char:EOLhyphen"/>pearance that name hath been given it by the <hi>Latins,</hi> thereby to denote that it is the door of <hi>Italy.</hi> But whatever its beginning was, it is certain that in the time of the Commonwealth of <hi>Rome,</hi>
+                  <pb n="3" facs="tcp:33744:3"/> it was the capital City of <hi>Liguria</hi> and under the protection of that Republick, ſeeing as <hi>Titus Livius</hi> reports, <hi>Genoa</hi> as an Allie of the <hi>Romans</hi> was deſtroyed by <hi>Mago</hi> Admiral of <hi>Carthage</hi> and Brother to <hi>Hannibal,</hi>
+                  <note place="margin">Deſtroyed by <hi>Mago.</hi>
+                  </note> during the ſecond Pu<g ref="char:EOLhyphen"/>nick War, and that the Goverment thereof was continued to the Prae<g ref="char:EOLhyphen"/>tor <hi>Spurius Lucretius,</hi> that he might rebuild it, and repair the Ha<g ref="char:EOLhyphen"/>ven; which by his diligence he accompliſhed in the ſpace of a year.</p>
+               <p>The ſame <hi>Livy</hi> relates that that fickle City with the reſt of <hi>Liguria</hi> revolted againſt <hi>Rome,</hi> at the time when that Republick having de<g ref="char:EOLhyphen"/>ſtroyed <hi>Carthage,</hi> and ſubdued <hi>Africa, Greece,</hi> and <hi>Aſia,</hi> was at the higheſt pitch of grandeur:<note place="margin">Makes war a<g ref="char:EOLhyphen"/>gainſt <hi>Rome.</hi>
+                  </note> He ſays that in that defection the <hi>Ge<g ref="char:EOLhyphen"/>noeſe</hi> with Fourty thouſand men attacked <hi>Piſa,</hi> that the Conſul <hi>Mi<g ref="char:EOLhyphen"/>nutius</hi> had much adoe to defend it, that the War as being of great dan<g ref="char:EOLhyphen"/>ger
+<pb n="4" facs="tcp:33744:4"/> and importance was managed againſt them by both the Conſuls, that many bloody Battels were fought, in which the <hi>Ligurians</hi> had ſo great advantage, that <hi>Rome</hi> in extream conſternation, was forced to appoint Prayers and Vows for the publick ſafety; which ſhews in what power <hi>Genoa</hi> was at that time.</p>
+               <p>It was at length abſolutely re<g ref="char:EOLhyphen"/>duced under the dominion of <hi>Rome,</hi> and continued ſo under the <hi>Caeſars,</hi> then under the Kings of the <hi>Herules</hi> or <hi>Goths,</hi> who Poſ<g ref="char:EOLhyphen"/>ſeſſed <hi>Italy;</hi> and afterwards under the Greek Emperours, and the Exarchs of <hi>Ravenna;</hi>
+                  <note place="margin">Poſſeſſed by the <hi>Lombards.</hi>
+                  </note> But the <hi>Lom<g ref="char:EOLhyphen"/>bards</hi> having utterly deſtroyed the <hi>Roman</hi> Empire in <hi>Italy,</hi> Aſſaul<g ref="char:EOLhyphen"/>ted, took and Sackt <hi>Genoa</hi> in the year 670. and that City remain<g ref="char:EOLhyphen"/>ed in their hands,<note place="margin">Conquered by <hi>Charlemagne</hi>
+                  </note> until <hi>Charle<g ref="char:EOLhyphen"/>magne</hi> having overcome <hi>Didier</hi> the laſt King of Lombardy, and made him Priſoner, conquered
+<pb n="5" facs="tcp:33744:4"/> all <hi>Italy,</hi> whereof he made <hi>Pepin</hi> his Eldeſt ſon King, and gave the Government of <hi>Genoa</hi> to Count <hi>Ademar</hi> his Kinſman, who ſhortly after in the year 806. commanding the Fleet of which <hi>Charlemagne</hi> had made him Admiral, defeated the Saracens at Sea, and after a bloody Battel which he gained upon them in the Iſland of <hi>Corſica,</hi> wherein nevertheleſs he died, re<g ref="char:EOLhyphen"/>conquered that Iſland, which by that means was annexed to the State of <hi>Genoa,</hi>
+                  <note place="margin">The union of the Iſland of <hi>Corſica</hi> to the ſtate of <hi>Genoa.</hi>
+                  </note> from which it hath never been ſeparated ſince.</p>
+               <p>It is certain that after the Death of <hi>Charlemagne, Genoa</hi> and the Iſland of <hi>Corſica</hi> remained under the dominion of the French, of which Count <hi>Boniface</hi> was Governour for <hi>Louis the Debonnaire</hi> in the year 828. It is alſo certain that it fell to the ſhare of <hi>Lotharius,</hi> eldeſt ſon of <hi>Louis the Debonnaire,</hi> with the reſt of the States of <hi>Italy,</hi> and that his Succeſſors peaceably enjoyed
+<pb n="6" facs="tcp:33744:5"/> it; but after the Death of <hi>Charles the Groſs</hi> which happened in the year 888. the Empire and King<g ref="char:EOLhyphen"/>dom of <hi>Italy</hi> were all of a ſudden diſmembred by the weakneſs of <hi>Charles the Simple,</hi> who was ſo far from reuniting all that belonged to his Crown, that to the Age of Twenty five years he had ſeveral Regents ſubſtituted to him with the Title of King.</p>
+               <p>Theſe Uſurpers that they might Peaceably enjoy what was within the Kingdom, ſhamefully ſuffered the Empire and the fair flowers of the State without to be invaded, and under their very Noſe permit<g ref="char:EOLhyphen"/>ted <hi>Italy</hi> to be diſputed and rent into pieces by the Wars which <hi>Louis,</hi> the Son of <hi>Bozon</hi> King of <hi>Provence</hi> had againſt <hi>Berenger,</hi>
+                  <note place="margin">The <hi>French</hi> loſe the State of <hi>Genoa.</hi>
+                  </note> Son of <hi>Everard</hi> Duke of <hi>Frioli,</hi> who had cauſed himſelf to be Pro<g ref="char:EOLhyphen"/>claimed King of <hi>Italy</hi> in <hi>Pavia,</hi> whilſt <hi>Guy</hi> Duke of <hi>Spoleto</hi> his competitour attempted the
+<pb n="7" facs="tcp:33744:5"/> ſame thing in <hi>Padua,</hi> and ſo, many Princes having intruded into the States which <hi>Charlemagne</hi> had Conquered beyond the Alps, and having ſucceſſively killed or diſ<g ref="char:EOLhyphen"/>poſſeſſed one another, <hi>Genoa,</hi>
+                  <note place="margin">
+                     <hi>Genoa</hi> falls to the firſt Poſ<g ref="char:EOLhyphen"/>ſeſſor.</note> as all the reſt, fell to him that could firſt poſſeſs it; ſo that du<g ref="char:EOLhyphen"/>ring the revolution which Provi<g ref="char:EOLhyphen"/>dence was preparing in <hi>France,</hi> in favour of <hi>Hugh Capet,</hi> the laſt Kings of the ſecond race having their hands full on't by the affairs of <hi>Germany,</hi> and the maintaining their own Crown, diviſions in<g ref="char:EOLhyphen"/>creaſed daily in <hi>Italy,</hi>
+                  <note place="margin">Deſtroyed by the <hi>Saracens.</hi>
+                  </note> and gave occaſion to the <hi>Saracens</hi> to make a deſcent at <hi>Genoa,</hi> which they unexpectedly ſurpriſed in the year 936. ſacked and burnt it, carry<g ref="char:EOLhyphen"/>ing away all that could be put on board their Ships; but they were met betwixt <hi>Corſica</hi> and <hi>Sardinia</hi> by the Fleet of the <hi>Genoeſe</hi> upon their return from cruiſing, and were engaged with ſo bad a ſucceſs for
+<pb n="8" facs="tcp:33744:6"/> the Infidels, that they were wholly defeated,<note place="margin">Reeſtabliſhed.</note> the Slaves re<g ref="char:EOLhyphen"/>taken, and the City reeſtabliſhed upon its aſhes.</p>
+               <p>After that diſmal deſolation it continued during the ſpace of 450. years,<note place="margin">The uncertain ſtate of <hi>Genoa.</hi>
+                  </note> ſometimes in an Anarchy, ſometimes in a kind of Republican Government, and ſometimes un<g ref="char:EOLhyphen"/>der the dominion of ſeveral Prin<g ref="char:EOLhyphen"/>ces. At length the People weary of the diviſions which theſe chan<g ref="char:EOLhyphen"/>ges of State cauſed amongſt their chief Citizens,<note place="margin">Returns to the <hi>French.</hi>
+                  </note> reſolved to return under the dominion of the Kings of <hi>France,</hi> who were become law<g ref="char:EOLhyphen"/>ful Lords of <hi>Genoa</hi> from the time that <hi>Charlemagne</hi> reckoned it a<g ref="char:EOLhyphen"/>mongſt his other Conqueſts.</p>
+               <p>The cauſe of that Revolution was, that in the year 1363. <hi>Simon Bocca negra</hi> Duke of <hi>Genoa</hi> having been Poiſoned, <hi>Gabriel Adorno</hi> a Merchant of the faction of the <hi>Guelphs,</hi> was choſen to ſucceed him, and Governed ſeven
+<pb n="9" facs="tcp:33744:6"/> years, until <hi>Dominico de Campo Fregozo</hi> a Merchant of the <hi>Gibel<g ref="char:EOLhyphen"/>line</hi> faction, diſplaced him the 13. of <hi>Auguſt</hi> 1370. and was inſtalled in his place. That was the beginn<g ref="char:EOLhyphen"/>ing of the long Quarrel betwixt the <hi>Adorno's</hi> and <hi>Fregozo's,</hi>
+                  <note place="margin">The <hi>Adorno's</hi> and <hi>Fregozo's</hi> divided.</note> which during the ſpace of 180. years held the City of <hi>Genoa</hi> in continual diviſions and factions, which ended not but by the extinction of one of theſe Families, the <hi>Montaldo's</hi> and <hi>Guarco's</hi> who were very powerful, maintained the <hi>Fregozo's;</hi> and <hi>Antoniot Adorno,</hi> who having been Elected Duke, ex<g ref="char:EOLhyphen"/>pelled, and reſtored, in the years 1383. 1390. and 1392. was for the fourth time Maſter of the Re<g ref="char:EOLhyphen"/>publick in the year 1396. not thinking himſelf ſtrong enough to maintain his Authority againſt his powerful Enemies, by the mediation of the Cardinal <hi>Louis of Fieſchi</hi> and of <hi>Anthony</hi> Count of <hi>Lavagna</hi> his brother, with the uni<g ref="char:EOLhyphen"/>verſal
+<pb n="10" facs="tcp:33744:7"/> conſent of all the <hi>Genoeſe</hi> made over to <hi>Charles</hi> VI.<note place="margin">The reſignati<g ref="char:EOLhyphen"/>on of <hi>Genoa</hi> to <hi>Charles</hi> VI.</note> King of <hi>France,</hi> and his Succeſſors, the Sovereign Lordſhip of the Republick, and of all the States that depend on it; the reſignation was made by an Authentick Treaty of the 25. of <hi>October,</hi> and the 27. of <hi>November;</hi> the Arms of <hi>France</hi> were ſet up upon the Gates and the great Tower of the Palace; and in preſence of all the People, <hi>Antoniot Adorno</hi> delive<g ref="char:EOLhyphen"/>red the Keys of the Gates and the Battoon of Command into the hands of the Kings Ambaſſadors, which were preſently given back to him, as to the Governour for the King: That Treaty was put in execution,<note place="margin">Confirmed with <hi>Charles</hi> VII.</note> and afterwards con<g ref="char:EOLhyphen"/>firmed a ſecond time, by all the Orders of the City of <hi>Genoa</hi> with <hi>Charles</hi> VII. in the year 1458. ſo that the Kings of <hi>France</hi> enjoyed it during an Age and a half,<note place="margin">Its Rebellion by <hi>Andrew Doria.</hi>
+                  </note> un<g ref="char:EOLhyphen"/>til the revolt of <hi>Andrew Doria</hi>
+                  <pb n="11" facs="tcp:33744:7"/> made it rebel againſt <hi>Francis</hi> the firſt.</p>
+               <p>This happened in the year 1528. two years after the impri<g ref="char:EOLhyphen"/>ſonment of that more valiant than fortunate King; and after that revolt,<note place="margin">Ariſtocracy ſet<g ref="char:EOLhyphen"/>led in <hi>Genoa</hi> in the year 1528.</note> they ſettled a kind of Ariſ<g ref="char:EOLhyphen"/>ſtocratical Government, which continues to this day, and which according to the model of that of <hi>Venice,</hi> admits of none but the Nobles to the adminiſtration of publick Affairs.</p>
+               <p>They choſe twelve reformers for making new Laws,<note place="margin">Laws concern<g ref="char:EOLhyphen"/>ing the Doge.</note> the firſt of which was, that the Duke or Doge ſhould continue but two years in office, that his Govern<g ref="char:EOLhyphen"/>ment ſhould expire on the laſt of <hi>December.</hi> And that his authority might be the more ſtinted, it was added, that he could not be con<g ref="char:EOLhyphen"/>tinued; that after that day he ſhould have no Power; that none of his Name and Family ſhould be choſen immediatly after him, and
+<pb n="12" facs="tcp:33744:8"/> that he himſelf could not again enter into that dignity till after the expiration of five years; that he be full fifty years of age, and have an allowance of Six thouſand Livres a year, reduced ſince to Four thouſand; that after his reign he ſhould be perpetual Pro<g ref="char:EOLhyphen"/>curator of the Republick, if he committed no Fault in his Office; which ſhould be examined by the Syndicks within 8. days after the concluſion of his adminiſtration.</p>
+               <p>The <hi>Government</hi> of <hi>Genoa</hi> conſiſts of two Councils, the one called the great Council,<note place="margin">Two Councils in <hi>Genoa.</hi>
+                  </note> and the other the lit<g ref="char:EOLhyphen"/>tle, in both which the Doge Head of the Republick preſides, who, as hath been ſaid, is changed every two years, and hath always for his aſſeſ<g ref="char:EOLhyphen"/>ſors twelve Senators, eight Procu<g ref="char:EOLhyphen"/>rators, and thoſe who have carried the ſupream Dignity of Doge.</p>
+               <p>The great Council<note place="margin">The great Council.</note> is made up of all the Nobles of the State in ge<g ref="char:EOLhyphen"/>neral, provided they be preſent, and
+<pb n="13" facs="tcp:33744:8"/> two and twenty years of age com<g ref="char:EOLhyphen"/>pleat. Theſe Gentlemen are about ſeven hundred in number, who conſtitute near an hundred and fifty Noble Familes, ſome of which are but the branches of others, or adopted into them. In this Coun<g ref="char:EOLhyphen"/>cil properly the Supream power reſides, and of that number of ſe<g ref="char:EOLhyphen"/>ven hundred, the two hundred who conſtitute the little Council are yearly choſen: and in this manner the Election is made.</p>
+               <p>A few days before the new year begins, the Doge with the Senators,<note place="margin">How the little Council is cho<g ref="char:EOLhyphen"/>ſen.</note> Procurators and the old Doges, aſſemble the little Council, which by Plurality of voices chuſes thir<g ref="char:EOLhyphen"/>ty Nobles whom they look upon to be the beſt Citizens, moſt zea<g ref="char:EOLhyphen"/>lous for the publick Good, and in greateſt Reputation for probity and honour, which thirty chuſe out of the ſeven hundred Gentle<g ref="char:EOLhyphen"/>men of the great Council, the two hundred who are to make up the
+<pb n="14" facs="tcp:33744:9"/> little Council for the year follow<g ref="char:EOLhyphen"/>ing, which begins the firſt of <hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi> and it happens almoſt al<g ref="char:EOLhyphen"/>ways that thoſe of the foregoing year are for moſt part continued, if there be no weighty cauſe nor ſe<g ref="char:EOLhyphen"/>cret reaſons of State for excluding them; ſo that it may be ſaid that the choice which at preſent they make, is onely for ſupplying the Places of thoſe who are dead or abſent, or who have been preferred to more conſiderable employ<g ref="char:EOLhyphen"/>ments.</p>
+               <p>I have told you that for preſi<g ref="char:EOLhyphen"/>ding in thoſe two Councils, the Doge had for Aſſeſſors twelve Se<g ref="char:EOLhyphen"/>nators and eight Procurators: They continue in Office two years, and every Six Months three Senators and two Procurators are ſubſtitu<g ref="char:EOLhyphen"/>ted in the Place of thoſe that go out; the Election being performed in this manner.</p>
+               <p>
+                  <note place="margin">The Election of Senators and Procura<g ref="char:EOLhyphen"/>tors.</note>There is a box called the Semi<g ref="char:EOLhyphen"/>nary, wherein are the names of
+<pb n="15" facs="tcp:33744:9"/> ſixſcore Gentlemen, of Fourty years of Age at leaſt, in billets; and ſeeing there are a great many names yearly taken out either for filling the places of Senators, Pro<g ref="char:EOLhyphen"/>curators and ſometimes of the Doge; or of thoſe who die, or are taken up about other employ<g ref="char:EOLhyphen"/>ments, the number of theſe ſixſcore billets muſt yearly be made com<g ref="char:EOLhyphen"/>pleat;<note place="margin">The box called the Seminary.</note> and for that purpoſe in the beginning of <hi>June</hi> the little Council is called; and upon the report made to them of the number that is neceſſary to fill up the Seminary, every Gentleman of the little Council, propoſes a Perſon fourty years old, whom he judges worthy to be put in, and amongſt all thoſe who are propoſed, this Council chuſes double the number of what is neceſſary for ſupplying the num<g ref="char:EOLhyphen"/>ber that is wanting in the box;<note place="margin">How it is filled.</note> and then that double number choſen by the little Council, is propoſed to the great Council of ſeven hun<g ref="char:EOLhyphen"/>dred,
+<pb n="16" facs="tcp:33744:10"/> which rejects one half and retains the other, whoſe names are put into the Lottery box. Out of this box every ſix months five names are taken by hazard, three for Senators, and two for Procurators: ſo that it may be ſaid that the Government of that Re<g ref="char:EOLhyphen"/>publick depends wholly upon fortune, and that unfortunate merit and the honeſteſt man of the State many times by the caprici<g ref="char:EOLhyphen"/>ouſneſs of obſtinate fate lies buri<g ref="char:EOLhyphen"/>ed in obſcurity at the bottom of the box.</p>
+               <p>
+                  <note place="margin">The Election of the Doge.</note>The ſame fortune hath ſome ſhare alſo in the election of the Doge, but in a different manner, becauſe for the Senators Choice begins and Chance concludes, and for the Doge, Election compleats what Lot began. When the Doge hath finiſhed his two years, the great Council meets, the number of thoſe who compoſe it is taken, and as many little balls of equal
+<pb n="17" facs="tcp:33744:10"/> bigneſs are put into a box, of which fifty are gilt, and the reſt ſilvered over; Every one by a little hole through which the hand alone can paſs without ſeeing, takes out one of theſe balls, and the fifty Gentlemen who have drawn the gilt balls, meet, and by ſcrutiny chuſe twenty perſons each Fifty years old at leaſt; and then about thoſe twenty choſen by ſcrutiny they go to a Vote; and by the Plurality of Voices five of them are rejected, and fifteen retained, who are propoſed to the little Council, which out of theſe fifteen chuſe ſix by the Plu<g ref="char:EOLhyphen"/>rality of voices; And of theſe ſix at length propoſed to the great Council, he that hath moſt Voices is <hi>Doge;</hi> And it is to be obſer<g ref="char:EOLhyphen"/>ved that as the Offices are equally divided betwixt the Ancient and new Nobility, ſo the <hi>Doge</hi> is taken alternatly out of both, ſo that if he be to day named from amongſt the
+<pb n="18" facs="tcp:33744:11"/> ancient Nobility, two years after he will be taken out of the new, and ſo ſucceſſively.</p>
+               <p>The <hi>Doge</hi> with the twelve Senators repreſents the Prince, and enjoys the Supream autho<g ref="char:EOLhyphen"/>rity; He can do all that he is not expreſly prohibited to do by law; with them he judges Suits betwixt Parties, or empowers others to judge, and can even reſcind Teſtaments and Contracts.</p>
+               <p>With the Senators and Procu<g ref="char:EOLhyphen"/>rators, he adminiſters the affairs of State, the Exchequer, Publick Revenues, and thoſe things which by the Laws are referred to the cognizance of the Colledg of Pro<g ref="char:EOLhyphen"/>curators.</p>
+               <p>
+                  <note place="margin">The Preroga<g ref="char:EOLhyphen"/>tives of the <hi>Doge.</hi>
+                  </note>One of the great Prerogatives of the <hi>Doge,</hi> is the right that he hath of making the Propoſitions to the Council, which the <hi>Doge</hi> of <hi>Venice</hi> hath not; that right gives of him a powerful Authority,<note place="margin">The right of Propoſing.</note> becauſe if he perceive that the diſpoſitions
+<pb n="19" facs="tcp:33744:11"/> of the Council are not favourable to the matter in deliberation, he interrupts it, and brings another affair upon the Stage. It is he that gives Audiences, and or<g ref="char:EOLhyphen"/>ders them according to the pre<g ref="char:EOLhyphen"/>ſence or abſence of the friends of thoſe whom he intends to favour or croſs, chuſing proper times and junctures to make them miſcarry or ſucceed: and ſeeing he can propoſe the ſame affair three times, when he perceives ſome votes wanting, he ſo dextrouſly inſinuates his intentions to the Council, that he always brings about ſome voices for obtaining the thing he intends.</p>
+               <p>Heretofore the Senators made uſe of the right which they had of propoſing twice a month, and employed it for the ſervice of their friends,<note place="margin">Senators here<g ref="char:EOLhyphen"/>tofore had it.</note> who could not obtain a favourable Audience of the <hi>Doge:</hi> but whether it be that the regiſter of Priviledges hath been ſuppreſt,
+<pb n="20" facs="tcp:33744:12"/> or that the Power of the Princes naturally advances in growth by the flattery or eaſy compliance of the reſt, for ſome years no Senator hath made uſe of that Priviledg; a dangerous change and favoura<g ref="char:EOLhyphen"/>ble to thoſe who aſpire to that chief dignity; but the People and Nobles who are not in a condition of attaining to that, ſuffer it with extream diſcontent, yet dare not ſpeak of it, for fear of an excluſion, and of being reckoned turbulent Perſons who are better pleaſed with novelty than Juſtice; ſo that by a cowardly ſilence they are fain to purchaſe a ſhare in the Go<g ref="char:EOLhyphen"/>vernment.</p>
+               <p>Weighty affairs are not reſolved upon by the <hi>Doge</hi> and by theſe two Colledges; but for determi<g ref="char:EOLhyphen"/>ning them the little Council is cal<g ref="char:EOLhyphen"/>led; and when they are of great importance, the whole great Council meets, and when either of the two aſſemble, it muſt be in
+<pb n="21" facs="tcp:33744:12"/> Preſence of five Perſons who have the Title of Conſervators of the Laws,<note place="margin">Conſervators of the Laws.</note> and whoſe office is to take heed that nothing be Acted con<g ref="char:EOLhyphen"/>trary to the Laws of the State.</p>
+               <p>There is another Magiſtracy conſiſting of ſeven Perſons, called the Inquiſitors of the State,<note place="margin">Inquiſitors of the State.</note> which are as a Sentinel, to obſerve the dangers of the Republick, Factions, Conſpiracies, and eve<g ref="char:EOLhyphen"/>ry thing that may be committed againſt the repoſe and tranquillity of the People: ſix others have the care of thoſe things that relate to War,<note place="margin">Other Magi<g ref="char:EOLhyphen"/>ſtrates.</note> five have the overſight of the Corn, five of the Galleys, five of the Shipping, five of the Walls, Harbours, Aqueducts and high Ways, and five more of the Mar<g ref="char:EOLhyphen"/>kets and Proviſions.</p>
+               <p>The Inquiſitors of the State, whom I juſt now mentioned, have not onely the care of the Publick Peace; but they have an Eye alſo over the conduct of Forreign Mi<g ref="char:EOLhyphen"/>niſters,
+<pb n="22" facs="tcp:33744:13"/> and keep correſpondences in the Courts of other Princes, where they entertain Spies who are not ſuſpected, that give them intelligence not only of Intrigues that may concern their State, but of the conduct alſo of their own Miniſters. The <hi>Engliſh, Venetians, Dutch,</hi> and <hi>Florentines</hi> have Conſuls at <hi>Genoa</hi> for their Traffick, who give advice of the Affairs that may concern the States of their Maſters, as <hi>Mon<g ref="char:EOLhyphen"/>ſieur Compan</hi> was there for <hi>France;</hi> but <hi>Spain</hi> kept an Ambaſſadour there for encouraging their Party, who of late hath been changed into a Reſident or Envoy; ſuch was <hi>Villagarcia</hi> at preſent Am<g ref="char:EOLhyphen"/>baſſadour at <hi>Venice.</hi> His Con<g ref="char:EOLhyphen"/>duct was very grateful to the Republick, and <hi>Coloma</hi> who ſuc<g ref="char:EOLhyphen"/>ceeded him hath not found the ſame Civilities, not onely by the refuſal of the Honours that were rendered to his Predeceſſour, but
+<pb n="23" facs="tcp:33744:13"/> alſo by an accident which de<g ref="char:EOLhyphen"/>ſerves to be known, and which I may very well take notice of by the by in this place.</p>
+               <p>The Governour of <hi>Milan</hi> up<g ref="char:EOLhyphen"/>on the complaint of the Patron of a Bark of <hi>Final,</hi>
+                  <note place="margin">The misfor<g ref="char:EOLhyphen"/>tune of <hi>Colo<g ref="char:EOLhyphen"/>ma.</hi>
+                  </note> a Creditor to ſome <hi>Genoeſe,</hi> againſt whom he could not have Juſtice from the Senat, cauſed all the effects be<g ref="char:EOLhyphen"/>longing to the Subjects of the Republick to be ſequeſtrated; (for this is the way by which the <hi>Spaniards</hi> do themſelves Juſtice) <hi>Coloma</hi> wrote to <hi>Spain</hi> to juſtifie the Sequeſtration;<note place="margin">A trick of the <hi>Genoeſe.</hi>
+                  </note> But the <hi>Ge<g ref="char:EOLhyphen"/>noeſe</hi> ſtop'd the Courier without the Gates, and having opened his Packet, ſuppreſſed his Let<g ref="char:EOLhyphen"/>ters, and counterfeited others in their place, which the Courier carried to <hi>Spain</hi> as ſent from <hi>Co<g ref="char:EOLhyphen"/>loma.</hi> That is no difficult thing for them to do, becauſe they al<g ref="char:EOLhyphen"/>ways entertain a Man skilful in counterfeiting all ſorts of Wri<g ref="char:EOLhyphen"/>ting,
+<pb n="24" facs="tcp:33744:14"/> whom they uſe upon oc<g ref="char:EOLhyphen"/>caſion. He whom they have at preſent, is called <hi>Montiar<g ref="char:EOLhyphen"/>din,</hi> a Priſoner in the Tower of the Palace for many forge<g ref="char:EOLhyphen"/>ries he had done for private Perſons; and he who rendered the ſame Office to the Repub<g ref="char:EOLhyphen"/>lick before him, was one named <hi>Caracciola</hi> who fled upon ſome diſcontents that he received; ſo that when they have a mind to undo any Man, they make uſe of ſuch Forgeries, upon which they cauſe thoſe who diſpleaſe them to be arreſted and clap'd up into Priſon for ſeveral years, and that without any form of Juſtice; but by a formality of Matchiavilian Policy, which they call <hi>eſt informata conſcientia.</hi> To return then again to <hi>Coloma,</hi> the forged Packet being come into <hi>Spain,</hi> it was believed to be his, and Orders were preſently di<g ref="char:EOLhyphen"/>ſpatched to diſcharge the Seque<g ref="char:EOLhyphen"/>ſtration.
+<pb n="25" facs="tcp:33744:14"/> The Governour of <hi>Mi<g ref="char:EOLhyphen"/>lan</hi> incenſed againſt <hi>Coloma,</hi> whom he thought to be the real Au<g ref="char:EOLhyphen"/>thor of that Releaſe, ſet ſo many Engines at work againſt him, that he hath got him to be re<g ref="char:EOLhyphen"/>called; and that unfortunate Miniſter could never diſcover the Cheat till he had loſt his place at <hi>Genoa</hi> and his Credit at Court, where the <hi>Genoeſe</hi> are ſtill ſo cunning as to render him ſu<g ref="char:EOLhyphen"/>ſpected of diſcovering the ſecrets of his Reſidence to <hi>Monſieur de Saint Olon</hi> Envoy of <hi>France.</hi>
+               </p>
+               <p>The Protectors of the Houſe or Bank of St. <hi>George,</hi>
+                  <note place="margin">The bank of St. <hi>George.</hi>
+                  </note> make a<g ref="char:EOLhyphen"/>nother Magiſtracy, or particular Court. It is a kind of Body independent of the Republick, and as a State within a State. This Bank which is governed by very laudable Conſtitutions, owes its Original to the publick neceſ<g ref="char:EOLhyphen"/>ſities. It is a ſacred depoſt of all the Wealth of the People, and
+<pb n="26" facs="tcp:33744:15"/> in this manner it was eſtabliſh<g ref="char:EOLhyphen"/>ed. The Treaſure of the State having been exhauſted by long and continual Wars;<note place="margin">The eſtabliſh<g ref="char:EOLhyphen"/>ment of the Bank of St. <hi>George.</hi>
+                  </note> it was re<g ref="char:EOLhyphen"/>ſolved to borrow conſiderable ſums of Money, and to engage for them the Revenues of the publick Impoſitions: ſo that in ſtead of aſſigning, as is uſual in <hi>France,</hi> payments upon the duties of the Town, <hi>Genoa</hi> made over the duties themſelves and other Rights to their Creditors, to the end they might receive them and reimburſe themſelves with their own hands. To faci<g ref="char:EOLhyphen"/>litate the execution of this, they were allowed to form amongſt themſelves a Council of four hundred Directors, to take out of this Council a Magiſtrate,<note place="margin">Its Directors and Prote<g ref="char:EOLhyphen"/>ctors.</note> eight Protectors and other infe<g ref="char:EOLhyphen"/>riour Officers, who take care to bring into the publick ſtock of St. <hi>George</hi> the Impoſitions aſſign<g ref="char:EOLhyphen"/>ed, and to make the diſtribu<g ref="char:EOLhyphen"/>tion
+<pb n="27" facs="tcp:33744:15"/> of them amongſt the Cre<g ref="char:EOLhyphen"/>ditors of the Republick accord<g ref="char:EOLhyphen"/>ing to their ſeveral Debts, with power to judg Sovereignly ac<g ref="char:EOLhyphen"/>cording to the Laws of the State, all Suits Civil and Criminal that ariſe upon that account, and the mutual Credit betwixt the Re<g ref="char:EOLhyphen"/>publick and that Bank is ſo pun<g ref="char:EOLhyphen"/>ctually obſerved, that what ne<g ref="char:EOLhyphen"/>ceſſity ſoever the State hath been reduced to, it was never propo<g ref="char:EOLhyphen"/>ſed to meddle with theſe Sacred Revenues, and that the moſt Criminal Rebels, and Strangers in War with the Republick have alwayes been regularly payed the intereſt of their principal. A wiſe and politick Maxim that cannot be too much commended, and which hath ſo well main<g ref="char:EOLhyphen"/>tained that Bank, that the Money not onely of all the private <hi>Ge<g ref="char:EOLhyphen"/>noeſe,</hi> but alſo of an infinite number of Strangers has been put into it, and that its Money
+<pb n="28" facs="tcp:33744:16"/> and Credit are inexhauſtible. So true it is that publick Purſes as well as private, cannot ſubſiſt but by a long experienced Inte<g ref="char:EOLhyphen"/>grity and Juſtice, and that when a Prince can once perſuade his people of this honeſty, all mens Coffers will open freely of themſelves, when neceſſities do urge.</p>
+               <p>
+                  <note place="margin">The Riches of the <hi>Genoeſe.</hi>
+                  </note>Vaſt is the Riches which the <hi>Genoeſe</hi> have heaped up during a long Peace, and the continual good ſucceſs of a well-ſetled Com<g ref="char:EOLhyphen"/>merce. Their wealth is proud in outward appearance, and their luxury prodigious; but that Re<g ref="char:EOLhyphen"/>publick is far more wealthy than ſtrong, far more haughty than valiant, and it is eaſier to ſubdue it, than to make it a ſincere Friend; becauſe that people may become good and uſeful Sub<g ref="char:EOLhyphen"/>jects, but they will always be jealous and unſincere Neigh<g ref="char:EOLhyphen"/>bours. Poverty made them in<g ref="char:EOLhyphen"/>duſtrious,
+<pb n="29" facs="tcp:33744:16"/> Labour rendered them powerful and victorious at Sea; that Power ſettled their great Commerce, which brought them Wealth, and this introduced Lu<g ref="char:EOLhyphen"/>xury, Licentiouſneſs and the ef<g ref="char:EOLhyphen"/>feminacy of Peace, wherein their daſtardized Vertue hath for a long time languiſhed. Their care is to ſwell their Revenues, their amuſement and diverſion to rear ſtately Palaces, and their delight to plant ſumptuous Gardens, more fit for the reception of Kings, than of Merchants and Sea<g ref="char:EOLhyphen"/>faring Men. Nevertheleſs whilſt the Subjects increaſe daily in Riches, the body Politick decays, its Dignity declines, and all its Grandeur at preſent conſiſts in the pompous Attire, wherewith that people ſet off their <hi>Doge,</hi> and the imaginary pretenſions that make them vie, if they could, with Crowned Heads, in all the Courts of <hi>Europe.</hi>
+               </p>
+               <pb n="30" facs="tcp:33744:17"/>
+               <p>
+                  <note place="margin">The Revenue of the Re<g ref="char:EOLhyphen"/>publick.</note>Notwithſtanding the prodigi<g ref="char:EOLhyphen"/>ous wealth of the Citizens, yet the conſtant Revenue of the Repub<g ref="char:EOLhyphen"/>lick, exceeds not eight hundred thouſand Crowns a year. The truth is it might be improved to more, if the Governours were ſo faithful as not to employ to their private uſes part of that which is impoſed for publick neceſſities.</p>
+               <p>
+                  <note place="margin">Its Charge.</note>Upon that Revenue the Re<g ref="char:EOLhyphen"/>publick entertains three thouſand Foot in conſtant pay, who in time of Peace are ſufficient to garriſon the places not onely of the main Land, but alſo of the Iſland of <hi>Corſica.</hi>
+               </p>
+               <p>The next Charge of the Re<g ref="char:EOLhyphen"/>publick, is the conſtant main<g ref="char:EOLhyphen"/>taining of ſix Galleys, which a<g ref="char:EOLhyphen"/>mounts to ten thouſand Crowns a year a piece. They have ſince armed four new ones, but the fund for maintaining them is ſet<g ref="char:EOLhyphen"/>led upon extraordinary impoſi<g ref="char:EOLhyphen"/>tions.
+<pb n="31" facs="tcp:33744:17"/> The two Reſidents which they entertain in <hi>France</hi> and <hi>Spain</hi> coſt them twelve thouſand Crowns a year; but the greateſt charge is employed in the main<g ref="char:EOLhyphen"/>taining of two <hi>Rota</hi>'s or Courts of Juſtice, the Civil and Crimi<g ref="char:EOLhyphen"/>nal, their Chancellours, Secreta<g ref="char:EOLhyphen"/>ries or Clarks, Judges of the Sea-coaſts and Iſle of <hi>Corſica,</hi> Officers and other inferiour Miniſters of Juſtice, who, as in other States, are of a prodigious number, a grievance to the people, and an abuſe that cannot be too much reformed.</p>
+               <p>The remaining part of the Revenue is employed for the charges of forein Miniſters, and paying the intereſt of bor<g ref="char:EOLhyphen"/>rowed Money put into their Chambers, ſuch as the Chamber of St. <hi>John Baptiſt,</hi> and the Cham<g ref="char:EOLhyphen"/>ber of St. <hi>Bernard,</hi> which are much like to the Chamber of the City of <hi>London;</hi> And all
+<pb n="32" facs="tcp:33744:18"/> theſe Charges being defrayed, if any ſurplus remain, it is divided amongſt the <hi>Doge</hi> and the more powerful Senators and Nobles, who ſo order matters by their ſecret Intrigues and cloſe Combi<g ref="char:EOLhyphen"/>nations that they always govern the Republick ſucceſsfully, and impropriate to themſelves the Places and Offices, to the exclu<g ref="char:EOLhyphen"/>ſion of all the reſt.</p>
+               <p>Beſides the vaſt Wealth that renders the Capital one of the richeſt Cities of <hi>Europe;</hi> The people have been ſo induſtrious in cultivating their Lands, that they enrich the Inhabitants by the plentiful crops of Corn, Fruit, Oil and Wine, which both the <hi>Riviera</hi>'s produce; for ſo they call the Coaſts of <hi>Liguria</hi> to the Eaſt and Weſt of the City of <hi>Genoa.</hi>
+               </p>
+               <p>
+                  <note place="margin">Prodigious quantities of Oils.</note>The truth is, to the Weſt-ſide the Territories alone of <hi>Dian, Porto Moriſo</hi> and <hi>Vintimiglia,</hi> in
+<pb n="33" facs="tcp:33744:18"/> good years yield above four hundred thouſand Tun of theſe ſweet and precious Oils, which are the delights of the <hi>North,</hi> and the proviſion of <hi>Italy,</hi> ſo that one year with another the profit of them is valued at eight hundred thouſand Piſtols a a year.</p>
+               <p>The prodigious plenty of Ci<g ref="char:EOLhyphen"/>trons,<note place="margin">Abundance of Citrons and Oranges.</note> Limons and Oranges which are yearly gathered in the Ter<g ref="char:EOLhyphen"/>ritory of <hi>San-Remo,</hi> is greater than can be believed: <hi>England</hi> and <hi>Holland</hi> load whole Fleets with them; the <hi>Lombards</hi> buy them, they are tranſported into <hi>Germany,</hi> and an infinite number of Families live and grow rich by the ſale onely of the Flowers. They who coaſt along the ſhore by theſe delicious Forreſts of Ci<g ref="char:EOLhyphen"/>tron and Limon-trees, have not onely their Eyes diverted by the ſurpriſing proſpect of a verdure always freſh, and agreeably ming<g ref="char:EOLhyphen"/>led
+<pb n="34" facs="tcp:33744:19"/> with the <hi>Or</hi> and <hi>Argent</hi> of the Fruit and Flowers, but a breeze from the Land conveys to them alſo ſo fragrant a ſmell, that it would ſeem Nature had there ſummoned together all her Per<g ref="char:EOLhyphen"/>fumes for the delight of Tra<g ref="char:EOLhyphen"/>vellers.</p>
+               <p>
+                  <note place="margin">Wines of <hi>Taggia.</hi>
+                  </note>The Muſcat Wines which grow in the Territory of <hi>Taggia,</hi> are ſo eſteemed all over <hi>Italy,</hi> and eſpecially at <hi>Rome,</hi> that they are the dainties of the moſt de<g ref="char:EOLhyphen"/>licate Tables, and that rich Vil<g ref="char:EOLhyphen"/>lage is filled with wealthy <hi>Con<g ref="char:EOLhyphen"/>tadini,</hi> who ſhew the vaſt Eſtates which their Forefathers have rai<g ref="char:EOLhyphen"/>ſed onely from their Grapes and Raiſins.</p>
+               <p>
+                  <note place="margin">Seſtry <hi>and</hi> Veltry.</note>On the ſame <hi>Riviera</hi> to the Weſt are <hi>Seſtry di Ponente</hi> and <hi>Veltry</hi> Colonies of rich Mer<g ref="char:EOLhyphen"/>chants, who by the Trade of <hi>Spain</hi> and <hi>America</hi> have got pro<g ref="char:EOLhyphen"/>digious Wealth; and at <hi>Vel<g ref="char:EOLhyphen"/>try</hi> are thoſe Paper-Mills which
+<pb n="35" facs="tcp:33744:19"/> make the fineſt and whiteſt Paper of <hi>Europe.</hi>
+               </p>
+               <p>
+                  <hi>Aranza,</hi>
+                  <note place="margin">Aranza.</note> a ſmall inconſiderable Borough ſometime ago had got into ſo vaſt a Trade, that there were no leſs than threeſcore Mer<g ref="char:EOLhyphen"/>chant Ships that belonged to it, and plied the Trade of <hi>Africa,</hi> the <hi>Levant</hi> and <hi>Spain.</hi> The truth is, the <hi>Corſaires</hi> of <hi>Barbary</hi> having diſturbed their Traffick, their Fleet hath been diminiſhed, and reduced to a ſmall number of Veſſels; ſo that at preſent they have no more than ten or twelve Ships from forty to ſixty pieces of Cannon, wherewith they fol<g ref="char:EOLhyphen"/>low their Traffick.</p>
+               <p>The reſt of the <hi>Riviera</hi> to the Weſtward lying nearer the City, is deſtined more for pleaſure than profit; for there it is that the rich <hi>Genoeſes</hi> have built their Country Houſes, where they ſpend the pleaſant time of the Summer and Autumn: And
+<pb n="36" facs="tcp:33744:20"/> there are ſo many Palaces and de<g ref="char:EOLhyphen"/>lightful Gardens to be ſeen there, that a great Cardinal ſpeaking of St. <hi>Peter d' Arenes,</hi> of its ſituation, and the magnificence of its buildings, ſaid that a Prince ought either to live in Heaven or in that place.</p>
+               <p>The <hi>Riviera</hi> to the Eaſt a<g ref="char:EOLhyphen"/>bounds in Wines, which are ſuf<g ref="char:EOLhyphen"/>ficient to ſupply the State, and produces plenty of extraordinary good Oil: Oranges and Citrons abound not there ſo much as at <hi>San Remo,</hi> but they are better: and the Inhabitants of that Coaſt are not ſo rich, becauſe they are of a more warlike and leſs mer<g ref="char:EOLhyphen"/>cenary diſpoſition.</p>
+               <p>The State of <hi>Genoa</hi> on that ſide reaches to <hi>La Magra,</hi>
+                  <note place="margin">
+                     <hi>La Magra</hi> ſe<g ref="char:EOLhyphen"/>parates the State of <hi>Genoa</hi> from <hi>Tuſcany. Sarzana</hi> and <hi>Sarzanella.</hi>
+                  </note> which divides it from <hi>Tuſcany.</hi> The firſt place of Strength is <hi>Sarzana,</hi> ſituated in a fertile Plain. It is defended by a great Ditch, and a Wall, with an antient Caſtle
+<pb n="37" facs="tcp:33744:20"/> flanked with four Towers. And <hi>Sarzanella</hi> is a Fort upon an ad<g ref="char:EOLhyphen"/>joyning Hill, which wholly com<g ref="char:EOLhyphen"/>mands <hi>Sarzana.</hi> It was built by <hi>Caſtruccio,</hi> who made himſelf Maſter of the City of <hi>Luca:</hi> but after his death, the Mareſchal of <hi>Boucicaut</hi> Governour of <hi>Genoa</hi> received it in name of <hi>Charles</hi> VI. of <hi>France.</hi> The Dukes of <hi>Milan</hi> poſſeſſed it afterwards, and made it over to <hi>Thomas de Campo Fre<g ref="char:EOLhyphen"/>goſo,</hi> who tranſacted with the <hi>Florentines</hi> for it: And <hi>Charles</hi> the Eighth having made himſelf Maſter of <hi>Florence,</hi> became ſo alſo of <hi>Sarzana</hi> and <hi>Sarzanella,</hi> and made the Baſtard of <hi>Brienne</hi> Governour thereof; who per<g ref="char:EOLhyphen"/>ceiving the Affairs of <hi>Italy</hi> going to wrack, reſolved to make his private advantage of them, and without Orders from the King his Maſter, ſold them to the <hi>Genoeſe,</hi> who by virtue of that illegal Contract, uſurped them,
+<pb n="38" facs="tcp:33744:21"/> and have held them in poſſeſſion till this preſent.</p>
+               <p>Next to <hi>Sarzana</hi> is <hi>Lerice</hi>
+                  <note place="margin">Lerice.</note> built at the foot of the Rocks, upon a point of Land, from whence it hath no proſpect but towards the Sea, and diſcovers the Gulf <hi>delle Spetie,</hi>
+                  <note place="margin">
+                     <hi>Gulf</hi> delle Spetie.</note> of which it defends one of the Entries. Oppoſite to that on the other point of the Gulf is <hi>Porto-Venere,</hi>
+                  <note place="margin">Porto-venere.</note> and a little far<g ref="char:EOLhyphen"/>ther in, on the ſame ſide ſtands the Fort St. <hi>Marie,</hi>
+                  <note place="margin">
+                     <hi>Fort</hi> S. Marie.</note> which de<g ref="char:EOLhyphen"/>fends the whole compaſs thereof. The mouth of that Gulf then, is reckoned from <hi>Lerice</hi> to <hi>Porto-Venere,</hi> and betwixt the two are two little Iſlands which take up a great part of that Mouth, and leaving onely an entry to the Eaſt on the ſide of <hi>Lerice,</hi> and another to the Weſt on the ſide of <hi>Porto-Venere,</hi> cover the Gulf, and defend it from the Southern Winds; which renders it the moſt commodious, as it is the moſt
+<pb n="39" facs="tcp:33744:21"/> ſpacious of all the Havens of the <hi>Mediterranean;</hi> in ſo much that there is no Royal Fleet but may ſecurely lie there.</p>
+               <p>In thoſe two Iſlands which are in the mouth of the Gulf,<note place="margin">The Iſlands in the mouth of the Gulf.</note> there is black Marble dug of extraor<g ref="char:EOLhyphen"/>dinary beauty and fineneſs; it is full of Veins that look and ſhine like the pureſt Gold; and there is ſome found there as variouſly coloured as the Porphyrian Marble of the Eaſt. In the middle of this Gulf, as by a miracle of Nature,<note place="margin">A wonderful Fountain.</note> ſprings a Fountain of freſh water, which through the ſalt Waters riſes to the Surface, and ſpreads it ſelf as it were into a large Baſin, from which freſh Wa<g ref="char:EOLhyphen"/>ter may be taken, without any neceſſity of going aſhoar to fetch it on board of Ships.</p>
+               <p>
+                  <hi>La Spetia</hi> which is at the bot<g ref="char:EOLhyphen"/>tom of the Gulf, and which hath given it the name, belonged here<g ref="char:EOLhyphen"/>tofore to the Counts of <hi>Fieſchi.</hi>
+                  <pb n="40" facs="tcp:33744:22"/> The Republick of <hi>Genoa</hi> that ſei<g ref="char:EOLhyphen"/>zed it, about thirty years ſince or thereabouts cauſed a Cart-way to be made,<note place="margin">A way begun.</note> which croſſing all the Lands of the Counts of <hi>Fie<g ref="char:EOLhyphen"/>ſchi</hi> reaches to the bourg of <hi>Val<g ref="char:EOLhyphen"/>detaro,</hi> heretofore a Principality of the ſame Counts, and at pre<g ref="char:EOLhyphen"/>ſent poſſeſſed by the Duke of <hi>Parma.</hi> The Republick made that Way in hopes, nay and up<g ref="char:EOLhyphen"/>on the Promiſe which the Duke of <hi>Parma</hi> made to them, of con<g ref="char:EOLhyphen"/>tinuing it to <hi>Fornova,</hi> or of per<g ref="char:EOLhyphen"/>mitting the <hi>Genoeſe</hi> to do it at their charges, which afterwards they might be reimburſed of by the Tolls that ſhould be ſettled in ſeveral places. Their deſign was to draw by that way to the Port <hi>della Spetia</hi> all the Trade of <hi>Legorne:</hi> And the truth is that place is far more proper for a Staple, than any other place whatſoever of the <hi>Mediterrane<g ref="char:EOLhyphen"/>an.</hi> The <hi>Engliſh</hi> and <hi>Dutch</hi> Mer<g ref="char:EOLhyphen"/>chants
+<pb n="40" facs="tcp:33744:22"/> deſired it, not onely be<g ref="char:EOLhyphen"/>cauſe of the ſecurity and com<g ref="char:EOLhyphen"/>modiouſneſs of the Port, but alſo becauſe they could more con<g ref="char:EOLhyphen"/>veniently unload their Commo<g ref="char:EOLhyphen"/>dities there for <hi>Parma, Modena, Bologna,</hi> and all <hi>Lombardy,</hi> and by the <hi>Po</hi> convey them into the State of <hi>Milan, Montferrat, Man<g ref="char:EOLhyphen"/>toua,</hi> and the States of <hi>Venice, Ferrara</hi> and the patrimony of St. <hi>Peter,</hi> which without doubt would have been very profitable to the Duke of <hi>Parma.</hi> But the late great Duke,<note place="margin">The great Duke hinders the compleat<g ref="char:EOLhyphen"/>ing of it.</note> one of the wiſeſt Princes of <hi>Europe,</hi> pre<g ref="char:EOLhyphen"/>vented the <hi>Genoeſe.</hi> And ſeeing the Ducheſs of <hi>Parma,</hi> his Siſter governed the State during the minority of her Son, he engaged her not to ſuffer that way to be continued in the Lands of the State of <hi>Parma.</hi> The <hi>Genoeſe</hi> being netled at that politick A<g ref="char:EOLhyphen"/>ction of the Great Dukes, to be revenged, and with deſign to
+<pb n="42" facs="tcp:33744:23"/> vex him, reſolved to buy the Principality of <hi>Pontremoli,</hi>
+                  <note place="margin">Pontremoli.</note> which the <hi>Spaniards</hi> poſſeſſed, having uſurped it upon the Counts of <hi>Fieſchi.</hi> That Principality is con<g ref="char:EOLhyphen"/>tiguous to <hi>La Spetia;</hi> and by that means the <hi>Genoeſe</hi> might have cut off from the Duke of <hi>Tuſcany</hi> the way of ſending his goods from <hi>Legorn</hi> into <hi>Lom<g ref="char:EOLhyphen"/>bardy,</hi> by laying great Impoſiti<g ref="char:EOLhyphen"/>ons upon all that paſs'd that way. But the Great Duke a Man of more ability and cunning than the <hi>Genoeſe,</hi> who have much ado to agree in their reſolutions, and are always ſlow in the executi<g ref="char:EOLhyphen"/>on of them,<note place="margin">Bought by the great Duke.</note> prevented them a<g ref="char:EOLhyphen"/>gain: and though they were got into the poſſeſſion of that State, which they had morgaged from the Governour of <hi>Milan,</hi> for eight hundred thouſand Crowns in ready Money, with a clauſe of ratification on the part of the King of <hi>Spain;</hi> yet the Great
+<pb n="43" facs="tcp:33744:23"/> Duke cauſed the Affair to be ne<g ref="char:EOLhyphen"/>gotiated directly at Court, and purchaſed that Principality in Fee without Reverſion, for the ſum of twelve hundred thouſand Crowns in ready Money, where<g ref="char:EOLhyphen"/>of eight hundred thouſand were employed for the reimburſement of the <hi>Genoeſe,</hi> who had onely bought it in Morgage; And the other four hundred thouſand Crowns went into the Exchequer of <hi>Milan,</hi> and ſerved to the re<g ref="char:EOLhyphen"/>gaining of <hi>Tortona</hi> from the <hi>French,</hi> and the defending of <hi>Lombardy</hi> againſt them. The <hi>Genoeſe</hi> who diſcovered the trick that the Governour had put up<g ref="char:EOLhyphen"/>on them, and knew that he had kept by him a whole year the ratification of their Treaty, that he might give the Great Duke leiſure during that time to ſup<g ref="char:EOLhyphen"/>plant them, were upon the point of breaking with the <hi>Spaniards:</hi> but the cunning of the Gover<g ref="char:EOLhyphen"/>nour,
+<pb n="42" facs="tcp:33744:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="43" facs="tcp:33744:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="43" facs="tcp:33744:25"/> and the private intereſt of the chief members of the Re<g ref="char:EOLhyphen"/>publick, put a ſtop to the fer<g ref="char:EOLhyphen"/>mentation of their bad humours; And though they were ill ſatiſ<g ref="char:EOLhyphen"/>fied with <hi>Spain</hi> and the Great Duke, yet they continued quiet, and gave no vent to their reſent<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Upon that Coaſt to the Eaſt are <hi>Rimaggio,</hi>
+                  <note place="margin">The Eaſt Coaſt.</note> 
+                  <hi>Manerola, Corniglia, Vernazza, Monteroſſo, Levanto, Bonaſola, Framura, Deina, Mo<g ref="char:EOLhyphen"/>neglia,</hi> and other Lands in the Mountains, all abounding in moſt excellent Wines, Oil, Figs, Citrons, and Oranges.</p>
+               <p>
+                  <note place="margin">Seſtri.</note>
+                  <hi>Seſtri di Levante</hi> is upon that <hi>Riviera:</hi> It is a Town built up<g ref="char:EOLhyphen"/>on a Tongue of Land, betwixt a Strand and a Port: it belong<g ref="char:EOLhyphen"/>ed to the Counts of <hi>Fieſchi;</hi> and might be rendered conſiderable for the paſſage into <hi>Lombardy.</hi> Adjoining to that is <hi>Cucurno,</hi> which belonged to the Counts
+<pb n="44" facs="tcp:33744:25"/> of the ſame name of <hi>Cucurno,</hi> who having made it over to the Republick of <hi>Genoa,</hi> by a cruel revolution of Fortune are become ſo miſerable, that they are at preſent reduced to the gaining of a living by Fiſhing, and Seafa<g ref="char:EOLhyphen"/>ring.</p>
+               <p>From <hi>Seſtri</hi> forwards the Coaſt is ſurpriſingly beautiful; and the lower Mountains are more eaſily cultivated, producing with won<g ref="char:EOLhyphen"/>derful profuſion what ever the Inhabitants pleaſe to demand of the Earth.</p>
+               <p>There lies <hi>Lavagna,</hi>
+                  <note place="margin">
+                     <hi>Lavagna</hi> be<g ref="char:EOLhyphen"/>longed to the Counts of <hi>Fieſchi.</hi>
+                  </note> the An<g ref="char:EOLhyphen"/>cient Inheritance of the Counts of <hi>Fieſchi,</hi> who have always carried the Title of it ſince the year nine hundred ninety four, though the Republick hath out<g ref="char:EOLhyphen"/>ed them. <hi>Chiavari, Rapallo, San<g ref="char:EOLhyphen"/>ta Marguareta,</hi> and <hi>Porto fini</hi> come next, after which we find <hi>Caniogli, Bogiaſio,</hi> abounding in Oil, and <hi>Nervi,</hi> which is rich
+<pb n="46" facs="tcp:33744:26"/> in Roſes that blow all the year long.</p>
+               <p>
+                  <note place="margin">The King of <hi>Spain</hi>'s Debts.</note>The publick Riches of the People conſiſt in many things; The Kings of <hi>Spain</hi> owe them a<g ref="char:EOLhyphen"/>bove thirty Millions of Gold, the firſt of which Debts were con<g ref="char:EOLhyphen"/>tracted by <hi>Philip</hi> the Second up<g ref="char:EOLhyphen"/>on a very politick account, that by that bit of Gold he might curb a People naturally incon<g ref="char:EOLhyphen"/>ſtant. Theſe Debts or Actions were by the <hi>Spaniards</hi> aſſigned upon divers Librances or Rights, as they call them, but in ſuch a manner that it is difficult to exact the payment of them, or indeed the profit, ſo that moſt part have been forced to aban<g ref="char:EOLhyphen"/>don the Principal.</p>
+               <p>The <hi>Genoeſe</hi> being diſappoint<g ref="char:EOLhyphen"/>ed of the fair dealing which they expected from <hi>Spain</hi> in relation to their Debts, have taken other meaſures, and put their Money into the Banks of <hi>Rome, Venice,
+<pb n="47" facs="tcp:33744:26"/> Flo<g ref="char:EOLhyphen"/>rence, Milan, Naples</hi> and <hi>Sicily,</hi> and have purchaſed conſiderable Lands within theſe States, where they have laid out great ſums for Inheritances or Morgages, from whence they draw ſeveral mil<g ref="char:EOLhyphen"/>lions of Rent; They have alſo many in the Town Hall of <hi>Paris</hi> and in the Bank of <hi>Lyon.</hi>
+               </p>
+               <p>It is to be obſerved that the <hi>Spaniards</hi> by a quaint piece of Policy giving the <hi>Genoeſe</hi> the in<g ref="char:EOLhyphen"/>veſtiture of Fiefs and Lands which they have acquired in the States ſubject to the Catholick King,<note place="margin">
+                     <hi>Spaniſh</hi> Policy.</note> do it upon condition that they ſell them not to any but to <hi>Ge<g ref="char:EOLhyphen"/>noeſe;</hi> that ſo they may always have a hank over them as over Vaſſals, and hinder them from transferring the price of theſe Fiefs any where elſe; And that's the thing which unites them more cloſely both in intereſt and inclination to <hi>Spain,</hi> according to the Maxim, That where a
+<pb n="47" facs="tcp:33744:27"/> Man's Treaſure is, there is his Heart alſo.</p>
+               <p>
+                  <note place="margin">The Ports of the State.</note>The four moſt conſiderable Ports of this State upon the main Land, are that of <hi>Genoa,</hi> wonder<g ref="char:EOLhyphen"/>ful through induſtry; <hi>Savona,</hi> which is at preſent filling up; <hi>Vado,</hi> by the Provencals called <hi>Vaye;</hi> and the Gulf <hi>delle-Spetie,</hi> which is the largeſt and ſecureſt Port of all the <hi>Mediterranean.</hi>
+               </p>
+               <p>The Port of <hi>Genoa,</hi> one of the Wonders of the World, is the moſt conſiderable and moſt fre<g ref="char:EOLhyphen"/>quented: Art hath rendered it ſafe and commodious by two vaſt and ſtately Moles of hard Stone, which encompaſs a large extent of Sea, and cover it from the South-wind. Theſe two prodi<g ref="char:EOLhyphen"/>gious Walls have coſt incredible ſums of Money; and to defend them againſt the beating of the Sea; there is a ſtrong Rampart made before them of rocky ſtones of extraordinary bigneſs, which
+<pb n="49" facs="tcp:33744:27"/> have been rolled and caſt in hab nab at random; ſo that ſloping naturally of themſelves, they face the Mole at Water-mark and break the violence of the Waves, which by that means can<g ref="char:EOLhyphen"/>not damnifie the Wall. On the contrary, the Sea it ſelf in its continual agitations, to ſecond that Maſter-piece of humane in<g ref="char:EOLhyphen"/>duſtry, drives daily in great heaps of Sand againſt that pile of Rocks, and mingles thoſe with them in ſuch a manner, that not onely it makes a ſecond ſolid comport againſt its own fury, but alſo ſpreading its banks of Sand, prepares inſenſibly a road without, which in time will prove one of the beſt of the <hi>Mediter<g ref="char:EOLhyphen"/>ranean.</hi>
+               </p>
+               <p>This Port within begins to dry towards the Land, by the filth and dirt that the common Sewers bring to it. It would not be difficult to fill it up as
+<pb n="50" facs="tcp:33744:28"/> far as the mouth of the <hi>Darſena,</hi> and joyn that great ſpace to the City which would much enlarge it: And on the other hand by carrying further out on each ſide the two Arms whith the old and new Moles ſtretch out into the Sea, the Harbour of <hi>Genoa</hi> might by that means be rendered one of the largeſt, moſt ſtately and ſafe Ports in the World; For the wide opening which is betwixt the two Moles, as they are at pre<g ref="char:EOLhyphen"/>ſent, leaves too much Sea expo<g ref="char:EOLhyphen"/>ſed to the rage of the South, South-eaſt and South-weſt winds, ſo that Veſſels cannot lie oppoſite to the mouth of the Harbour when any of theſe Winds blow hard.</p>
+            </div>
+            <div n="50-103" type="pages">
+               <p>The <hi>Darſena</hi> I mentioned, is a little Harbour within, which can hold five and twenty Gal<g ref="char:EOLhyphen"/>leys, as in a box. It might ea<g ref="char:EOLhyphen"/>ſily be made twice as big, by breaking down a Wall which di<g ref="char:EOLhyphen"/>vides
+<pb n="51" facs="tcp:33744:28"/> it from another boſom of the Sea, called the <hi>Darſena</hi> of Wine, becauſe the Barks that bring it put in there.</p>
+               <p>The Sea <hi>Arſenal</hi> hath great ſhades and Coverts,<note place="margin">The <hi>Arſenal.</hi>
+                  </note> where twen<g ref="char:EOLhyphen"/>ty Galleys may be built at a time. And the Arſenal of Arms, which is in the Ducal Palace, is always furniſhed with Arms for forty thouſand Foot. The Ma<g ref="char:EOLhyphen"/>gazines of Powder are well pro<g ref="char:EOLhyphen"/>vided; but they entertain no more Soldiers ordinarily than the three thouſand Men I ſpake of.</p>
+               <p>Having ſurveyed the main Land, we muſt now give a de<g ref="char:EOLhyphen"/>ſcription of the Iſle of <hi>Corſica.</hi>
+                  <note place="margin">The Iſle of <hi>Corſica.</hi>
+                  </note> It lies in a very good Climate, betwixt the fortieth and two and fortieth degree of North lati<g ref="char:EOLhyphen"/>tude. It is in circuit one hun<g ref="char:EOLhyphen"/>dred and fifty <hi>French</hi> Leagues. That part which looks to <hi>Italy,</hi> and which they call <hi>Banda di den<g ref="char:EOLhyphen"/>tro,</hi>
+                  <pb n="52" facs="tcp:33744:29"/> is leſs cultivated than the reſt All that this Iſland produces is excellent; exquiſite Wines and delicate Oil: it yields alſo Silk, Wax, Honey and all ſorts of Fruits in abundance. It hath Iron Mines, two ſalt Pits, and a good breed of Horſes might be kept there: but for all that this Country is ſo fertile;<note place="margin">Diſpeopled by the <hi>Genoeſe.</hi>
+                  </note> the <hi>Ge<g ref="char:EOLhyphen"/>noeſe</hi> do what they can to render it almoſt deſart and abandoned, for two reaſons: Firſt, becauſe they think that if the People grew numerous and powerful, they would revolt againſt them: And ſecondly, that they may not excite Strangers to invade an Iſland which they endeavour to render contemptible, that they make it to be leſs envied. There are not reckoned to be upon it at preſent above one hundred thouſand Souls; but it might eaſily admit and maintain ſix times as many. It is divided
+<pb n="53" facs="tcp:33744:29"/> into ſix Biſhopricks,<note place="margin">Hath ſix Bi<g ref="char:EOLhyphen"/>ſhopricks.</note> reduced in to five, by the union of the Bi<g ref="char:EOLhyphen"/>ſhoprick of <hi>Mariana</hi> to that of <hi>Accia: Aleria, Aiazzo, Nebbio</hi> and <hi>Sagona</hi> are the other four.</p>
+               <p>The conſiderable parts of it are <hi>Calvi, Aiazzo, Boniface,</hi> St. <hi>Florent,</hi> and <hi>Porto-vecchio,</hi> and the <hi>Genoeſe</hi> have made at <hi>Baſtia</hi> the ordinary reſidence of the Governour, a Mole capable to contain four Galleys under cover. St. <hi>Florent</hi> was a work of the <hi>French</hi> fortified before the Peace of <hi>Chaſteau Cambreſis:</hi> The <hi>Ge<g ref="char:EOLhyphen"/>noeſe</hi> have demoliſhed it; but the foundations of Free-ſtone are ſtill remaining, ſo that it might eaſily be raiſed again; and if a deſcent were to be made upon the Iſland, there is no place more commo<g ref="char:EOLhyphen"/>dious, not onely by reaſon of its ſituation on the Weſt ſide; but alſo becauſe it is but three Leagues diſtant from <hi>Baſtia</hi> the Capital Town of the Iſland, op<g ref="char:EOLhyphen"/>poſite
+<pb n="54" facs="tcp:33744:30"/> to it, and ſeated on the Coaſt which looks to <hi>Italy</hi> on the Eaſt ſide.</p>
+               <p>The Territory of <hi>Aiazzo</hi>
+                  <note place="margin">Aiazzo.</note> a<g ref="char:EOLhyphen"/>bounds in Wine, Corn and in all ſorts of fruit.</p>
+               <p>
+                  <note place="margin">Cape-<hi>Corfe.</hi>
+                  </note>
+                  <hi>Cap Corfe</hi> produces excellent Wine, and the people of this Countrey, are the civileſt and moſt peaceable of all the reſt of the Iſland.</p>
+               <p>
+                  <hi>Balagna,</hi> which is called the Garden of of <hi>Corſica,</hi> yields the excellenteſt Oil in the World, and exquiſite fruits of all kinds.</p>
+               <p>
+                  <note place="margin">Baſtia.</note>
+                  <hi>Baſtia,</hi> the reſidence of the Governour, hath a good, rich and fertile Soil. There are thir<g ref="char:EOLhyphen"/>ty thouſand Souls reckoned to be in it, the Town has a good Trade and is well govern<g ref="char:EOLhyphen"/>ed. There is good Hunting and better Fiſhing about it, by reaſon of the many Lakes and Ponds that are near the ſame.</p>
+               <pb n="55" facs="tcp:33744:30"/>
+               <p>On <hi>Alerie</hi>
+                  <note place="margin">Alerie.</note> that is deſtroyed and <hi>Porto-vecchio</hi> depend large Lands, which are partly uncultivated, though they be fit to bear all ſorts of Corn. The great quan<g ref="char:EOLhyphen"/>tity of ſtanding dead Water that is there, incommodes the Air, and makes that Country almoſt abandoned. There Colonies ought to be planted for draining the Fens, and labouring a fat and fertile ſoil, which alone might feed all <hi>Liguria,</hi> that hath ſo little Corn, that it is forced to ſupply it ſelf from <hi>Lombardy, Sicily,</hi> and many times from <hi>A<g ref="char:EOLhyphen"/>frica:</hi> That draining would be eaſie, and the <hi>Genoeſe</hi> have ſeen a proof of it, ſince they brought thither a hundred Families of <hi>Magnote Greeks,</hi> a people neigh<g ref="char:EOLhyphen"/>bouring upon <hi>Morea,</hi> who have much advanced Husbandry in the place where they have ſet<g ref="char:EOLhyphen"/>led; but that number is not ſuf<g ref="char:EOLhyphen"/>ficient for a corner of all theſe
+<pb n="56" facs="tcp:33744:31"/> great Countries, which labour and induſtry would render moſt fruitful, if men enough were em<g ref="char:EOLhyphen"/>ployed to compaſs ſo good a work: a thing that would be eaſie by dividing all theſe Lands into inheritances of different Te<g ref="char:EOLhyphen"/>nures and qualities, to be grant<g ref="char:EOLhyphen"/>ed upon condition of ſettling a certain number of Families there<g ref="char:EOLhyphen"/>in, ſowing of Corn, planting Vines and Olive Trees, and e<g ref="char:EOLhyphen"/>ſpecially quantities of Mulberry Trees for Silks. By that means of a deſpicable Iſland, it might be made one of the richeſt Pro<g ref="char:EOLhyphen"/>vinces in the World.</p>
+               <p>
+                  <note place="margin">Woods of <hi>Aitona.</hi>
+                  </note>
+                  <hi>Aitona</hi> is famous for the vaſt Forreſts, and innumerable Trees that grow upon the Mountains thereof, and which are of a big<g ref="char:EOLhyphen"/>neſs and quality, not onely for building of Houſes, but alſo for building and maſting all ſorts of Veſſels: Theſe Mountains make a chain of ſome Leagues in length;
+<pb n="57" facs="tcp:33744:31"/> And the Forreſt would never be conſumed, provided it were or<g ref="char:EOLhyphen"/>derly cut: the Timber even cut in the new Moon alters not, and is of a particular grain. The <hi>Ge<g ref="char:EOLhyphen"/>noeſe</hi> who have found the impor<g ref="char:EOLhyphen"/>tance of this, have employed an hundred thouſand Crowns, to plain a way upon the ridg of the Mountains, which from the For<g ref="char:EOLhyphen"/>reſt reaches to the Sea-ſhore, where they have built great Ma<g ref="char:EOLhyphen"/>gazines, for preparing the Tim<g ref="char:EOLhyphen"/>ber, keeping it dry and preſer<g ref="char:EOLhyphen"/>ving it. There is very good fiſh<g ref="char:EOLhyphen"/>ing for Tunnys there, and abun<g ref="char:EOLhyphen"/>dance of Coral; which if well looked after, might turn to a conſiderable account. There are two ſalt Pits alſo in the Iſland, but the Republick ſlights them through a Politick condeſcenſion to the <hi>Spaniards.</hi>
+               </p>
+               <p>Salt is a ſacred Commodity,<note place="margin">The Salt.</note> which People cannot be without, and whereof ſome Princes make
+<pb n="58" facs="tcp:33744:32"/> their ordinary Revenues: that E<g ref="char:EOLhyphen"/>lement of life, as neceſſary as Corn: that <hi>Manna,</hi> which ſeaſons all our food, to defend us from corruption; that ſource of all the delights of the Taſte, is one of the pillars that in many States upholds the publick Treaſure: It coſts but little at firſt, but people pay dear for it. And ge<g ref="char:EOLhyphen"/>nerally Kings, and Republicks have impoſed ſevere puniſhments upon thoſe, who by a greedy raſhneſs attempt in that parti<g ref="char:EOLhyphen"/>cular to avoid and fruſtrate the Laws. <hi>Genoa</hi> draws a conſide<g ref="char:EOLhyphen"/>rable duty from Salt, becauſe that City furniſhes not onely all the State; but likewiſe <hi>Milan</hi> and all <hi>Lombardy</hi> with it. It is a great branch of the Revenue, and the Houſe or Bank of St. <hi>George</hi> to whom the <hi>Gabel</hi> is engaged,<note place="margin">The <hi>Gabell</hi> belongs to the Bank of St. <hi>George.</hi>
+                  </note> has the adminiſtration thereof, which is performed with much order and Economy. But the <hi>Genoeſe</hi>
+                  <pb n="59" facs="tcp:33744:32"/> might, without exacting, double the profit of it, becauſe they load their Salt at <hi>Yvyca,</hi> where the <hi>Spaniards</hi> ſell it them dear, and from whence they import it at great charges; whereas by re-e<g ref="char:EOLhyphen"/>ſtabliſhing the two ſalt Pits of the Iſland of <hi>Corſica</hi> which they ſlight,<note place="margin">Salt Pits in <hi>Corſica.</hi>
+                  </note> that they may not diſ<g ref="char:EOLhyphen"/>pleaſe the <hi>Spaniards,</hi> they might have it of their own, and at home: nay, if inſtead of going to load at <hi>Yvyca,</hi> they would come and take their Salt at the <hi>Hiere</hi> Iſles, much nearer them, it would coſt them far leſs both in the purchaſe and tranſporta<g ref="char:EOLhyphen"/>tion. This hath been ſeveral times propoſed by ſome <hi>Genoeſe</hi> to the Great Council; but the <hi>Spaniſh</hi> Cabal hath always by a myſtery of State hindered the reſolution, though acknowledged to be advantageous.</p>
+               <pb n="60" facs="tcp:33744:33"/>
+               <p>Since I have fallen upon the matter of Salt, it will not be im<g ref="char:EOLhyphen"/>pertinent to ſpeak of that which the <hi>French</hi> King would have con<g ref="char:EOLhyphen"/>veighed from the <hi>Hiere</hi> Iſles to <hi>Montferrat</hi> for ſupplying of <hi>Ca<g ref="char:EOLhyphen"/>zal</hi> and the Forces which he maintains there, who are not uſed to the Salt of the Country which is inferiour to that of <hi>France.</hi>
+               </p>
+               <p>
+                  <note place="margin">The demand of a Magazine of Salt at <hi>Savona.</hi>
+                  </note>This King demanded of the <hi>Genoeſe</hi> the ſetling of a Magazine of Salt at <hi>Savona.</hi> They excu<g ref="char:EOLhyphen"/>ſed themſelves to his Majeſty, becauſe all things are carrried in the Council of <hi>Genoa</hi> by the influence of the <hi>Spaniards.</hi>
+               </p>
+               <p>They have gone farther; for being perſuaded that the commo<g ref="char:EOLhyphen"/>diouſneſs of the Port of <hi>Savona</hi> put the King upon making that de<g ref="char:EOLhyphen"/>mand,<note place="margin">The Port of <hi>Savona</hi> filled up.</note> they have quite ſpoil'd it: And as <hi>Andrew Doria</hi> began heretofore to render it leſs uſe<g ref="char:EOLhyphen"/>ful, by ſinking two great Veſſels
+<pb n="61" facs="tcp:33744:33"/> full of Earth in the mouth of it, ſo they have ſet Maſons at work to wall up the Entry, and wholly to fill it up. And in the manner they ſpoil it, it will be almoſt impoſſible to reſtore it again. But there is a ſhorter way to have a place upon the Sea Coaſt for unloading of Salt, making a Magazine, and tranſporting it to <hi>Montferrat;</hi> There needs no more but to back the juſt pre<g ref="char:EOLhyphen"/>tenſions of the Counts of <hi>Fieſchi,</hi> for the reſtitution of his Eſtates. The Marquiſat of <hi>Laon,</hi>
+                  <note place="margin">Laon.</note> which borders upon the limits of the Marquiſat of <hi>Montferrat,</hi> is one of the chief Lands uſurped from them: it is a little Town by the Sea-ſide, with a ſtately Caſtle, poſſeſſed by the Houſe of <hi>Doria,</hi> ſince <hi>Andrew Doria</hi> took it from thoſe Counts. It is walled round, and ſeated upon an eaſie deſcent that reaches the ſhore. It con<g ref="char:EOLhyphen"/>tains about three thouſand Souls;
+<pb n="62" facs="tcp:33744:34"/> and may be eaſily fortified: It hath no Harbour, but the Road is good; and by the help of a little Mole there might be eaſily made a Haven ſufficient for the unloading of Salt, which might be carried as ſoon from <hi>Laon</hi> to <hi>Cazal,</hi> as if the Magazine were at <hi>Savona;</hi> And for having it, the King needs onely to require that Juſtice and Reſtitution may be made to the Count of <hi>Fieſchi,</hi> and that the reſtitution begin by that Marquiſat of <hi>Laon,</hi> which may be bought from him.</p>
+               <p>Upon that Coaſt two Leagues from <hi>Laon</hi> is <hi>Albegna,</hi> a ſtrong place and well ſituated, where by the help of a little Iſle that is oppoſite to it, and a Mole, which on the Eaſt-ſide might joyn the Iſland to the main Land; one of the beſt Ports of <hi>Europe</hi> might be made, which would make <hi>Montferrat</hi> reach as far as the Sea, ſupply it with the Salt
+<pb n="63" facs="tcp:33744:34"/> of the <hi>Hieres</hi> without any need of <hi>Savona,</hi> and facilitate the tran<g ref="char:EOLhyphen"/>ſportation of Forces by Sea, with<g ref="char:EOLhyphen"/>out being obliged to march them through <hi>Savoy,</hi> which in the re<g ref="char:EOLhyphen"/>volution of time may prove not ſo faithful to <hi>France</hi> as it is at preſent. All that is to be done then, is onely to make the Re<g ref="char:EOLhyphen"/>publick reſtore to the Counts of <hi>Fieſchi</hi> the Eſtates that lawful<g ref="char:EOLhyphen"/>ly belong to them, and which could not be confiſcated for the reaſons that are ſolidly alledged in their ſecond Petition.</p>
+               <p>
+                  <hi>Genoa</hi> is an Arch-biſhoprick,<note place="margin">
+                     <hi>Genoa</hi> an Arch-biſho<g ref="char:EOLhyphen"/>prick hath eleven Suf<g ref="char:EOLhyphen"/>fragans.</note> which hath eleven Suffragan Bi<g ref="char:EOLhyphen"/>ſhops; ſix in the Continent, <hi>Brugneto</hi> and <hi>Sarzana</hi> to the Eaſt; <hi>Savona, Noli, Albegna</hi> and <hi>Vin<g ref="char:EOLhyphen"/>timiglia</hi> to the Weſt; and five in the Iſland of <hi>Corſica</hi> as we have mentioned before. No Man is promoted to Epiſcopal Dignity, unleſs he be a <hi>Genoeſe,</hi> or of the State of <hi>Genoa,</hi> and the Arch-biſhop
+<pb n="64" facs="tcp:33744:35"/> muſt be of a noble Fa<g ref="char:EOLhyphen"/>mily, who is nominated by the Pope. The Cathedral Church called St. <hi>Laurence</hi> hath given to the Church, Popes, Cardinals and Biſhops.<note place="margin">The Chapter of St. <hi>Lau<g ref="char:EOLhyphen"/>rence.</hi>
+                  </note> The Chapter hereto<g ref="char:EOLhyphen"/>fore decided all Controverſies that happened betwixt the Arch-biſhop and the Senate: and it was in ſo great reputation, that <hi>Rome</hi> eſteemed its deciſions no leſs than <hi>France</hi> does thoſe of the <hi>Sorbone:</hi> but ſince the Senate hath arrogated to it ſelf the ho<g ref="char:EOLhyphen"/>nours of Royalty, and forced the Arch-biſhop to take his place on the ſide of the <hi>Epiſtle,</hi> tran<g ref="char:EOLhyphen"/>ſporting thither his Epiſcopal Chair, to make room for the <hi>Doge</hi> on the ſide of the <hi>Goſpel;</hi> the Chapter hath claſhed with the Senate, who to depreſs the Ca<g ref="char:EOLhyphen"/>nons have raiſed and maintained againſt them certain Chaplains, founded in that Church by the Counts of <hi>Fieſchi</hi> who croſs them in all things.</p>
+               <pb n="65" facs="tcp:33744:35"/>
+               <p>Beſides that, the Senate hath erected a new Tribunal conſiſt<g ref="char:EOLhyphen"/>ing of ſix Monks and three Se<g ref="char:EOLhyphen"/>nators, which they call <hi>the Ec<g ref="char:EOLhyphen"/>cleſiaſtick Juncto. Rome</hi> hath com<g ref="char:EOLhyphen"/>plained of it, as belonging to her alone to eſtabliſh Eccleſiaſtical Courts in <hi>Italy.</hi> But the Senate believed they might ſatisfie the Pope, by changing the name of that Tribunal, and calling it <hi>the Juncto of Juriſdiction.</hi>
+                  <note place="margin">The Juncto of Juriſdiction.</note> The Re<g ref="char:EOLhyphen"/>publick is guided by it in the Affairs of Conſcience. The Monks that conſtitute it are of the Or<g ref="char:EOLhyphen"/>der of <hi>Mendicants,</hi> and enjoy great priviledges, being exempt<g ref="char:EOLhyphen"/>ed from the Quire, and conven<g ref="char:EOLhyphen"/>tual Offices, well-lodged with a Lay-Brother to attend them, and a double allowance; go out and in without their Superiours leave, and have beſides a Penſion for their private occaſions. The way how they give their Opi<g ref="char:EOLhyphen"/>nions, is a mere Mummery: their
+<pb n="66" facs="tcp:33744:36"/> Judgment is not ſet down in wri<g ref="char:EOLhyphen"/>ting; but when they have given it by word of mouth, the three Senators are to make report there<g ref="char:EOLhyphen"/>of to the Chancellour; and they turn the Report as they pleaſe, and very often quite contrary to the Sentiment of the Monks.</p>
+               <p>
+                  <note place="margin">The Inquiſi<g ref="char:EOLhyphen"/>tion.</note>The Court of Inquiſition is a<g ref="char:EOLhyphen"/>nother piece of Pageantry, in the way they manage it. The In<g ref="char:EOLhyphen"/>quiſitor is ſent from <hi>Rome,</hi> who is a <hi>Dominican</hi> Monk, with a Se<g ref="char:EOLhyphen"/>cretary and Companion. Theſe three Fathers make up the Inqui<g ref="char:EOLhyphen"/>ſition, and can judg abſolutely; but nothing is put in execution but by expreſs orders from the Senate, which never gives them. The Inquiſitor exclaims and vexes himſelf; but if his Complaints ſound too loud, the Senate ſends him packing, under pretext of reaſon of State, and as turbulent.</p>
+               <p>There is no Religion but the Catholick, profeſſed at <hi>Genoa.</hi>
+                  <pb n="67" facs="tcp:33744:36"/> Since the time that St. <hi>Nazaras</hi> and St. <hi>Celſus</hi> preached the Go<g ref="char:EOLhyphen"/>ſpel there, no Hereſie hath there taken footing: And for that con<g ref="char:EOLhyphen"/>ſtancy in the true faith, and the Wars they have had againſt Infi<g ref="char:EOLhyphen"/>dels, the body of the State rec<g ref="char:EOLhyphen"/>kon it one of their priviledges, that they cannot incur an Inter<g ref="char:EOLhyphen"/>dict, nor general Excommunicati<g ref="char:EOLhyphen"/>on, no not from the Holy See,<note place="margin">
+                     <hi>Genoa</hi> cannot be excommu<g ref="char:EOLhyphen"/>nicated.</note> if in the excommunication his Ho<g ref="char:EOLhyphen"/>lineſs mention not the priviledg, and expreſly derogate from it.</p>
+               <p>That priviledg was granted them by Pope <hi>Innocent</hi> IV.<note place="margin">
+                     <hi>Innocent</hi> IV. of the Family of <hi>Freſque.</hi>
+                  </note> of the Houſe of <hi>Fieſchi,</hi> who being be<g ref="char:EOLhyphen"/>ſieged in <hi>Gajetta,</hi> with the whole College of Cardinals by <hi>Frede<g ref="char:EOLhyphen"/>rick</hi> II. was delivered by <hi>James</hi> and <hi>Nicolas Fieſchi's</hi> his Nephews, to whom <hi>Genoa</hi> lent them Galleys for that important Expedition; So that theſe two Nephews ma<g ref="char:EOLhyphen"/>king a ſhew of going againſt the <hi>Moors</hi> of <hi>Africa,</hi> put back to ſhoar
+<pb n="68" facs="tcp:33744:37"/> again of a ſudden; and coming to <hi>Gajetta,</hi> took on board the Pope and Cardinals, and carried them to <hi>Genoa,</hi> and from thence to <hi>France,</hi> where the Pope in preſence of St. <hi>Louis</hi> celebrated the Council of <hi>Lyon,</hi>
+                  <note place="margin">The Council of <hi>Lyon.</hi>
+                  </note> wherein <hi>Fre<g ref="char:EOLhyphen"/>derick the ſecond</hi> was declared fallen from the Empire, and ano<g ref="char:EOLhyphen"/>ther choſen in his place.</p>
+               <p>The religious <hi>Mendicants</hi> have ſtately Churches in <hi>Genoa,</hi> and every Order hath two or three. The <hi>Jeſuits</hi> keep the publick Schools, and have extraordinary credit with the Nobility. The Senate are pious in appearance, but in reality Machiavilians, with a fair outſide of Religion, but little correſpondence to it within; being proud, revengeful, irreconcileable, cruel, and glory<g ref="char:EOLhyphen"/>ing in Uſury; ſaying that they have a Bull from the Pope, (which no man ever ſaw) which allows them to take Intereſt at ſeven in
+<pb n="69" facs="tcp:33744:37"/> the hundred, and a good pledg beſides.</p>
+               <p>There are twenty four Frater<g ref="char:EOLhyphen"/>nities<note place="margin">Fraternities.</note> eſtabliſhed in <hi>Genoa:</hi> and there is not one <hi>Genoeſe</hi> who is not enrolled in one or other of theſe Fraternities: ſo that it may be ſaid, that under pretext of Devotion, there are twenty four factions in <hi>Genoa,</hi> who ſtill feed that ſecret rancour which hereto<g ref="char:EOLhyphen"/>fore divided the State into <hi>Guelphs</hi> and <hi>Gibellins,</hi> under the names of the <hi>Adorno's,</hi> and <hi>Fregozo's,</hi> and which is ſtill entertained betwixt the <hi>Fieſchi's</hi> and other Families; the <hi>Fregoſo</hi>'s being <hi>Guelphs,</hi> and the <hi>Adorno</hi>'s <hi>Gibellins:</hi> And as a mark of diſtinction betwixt thoſe two parties, the <hi>Fregozo</hi>'s both Men and Women wear their Hair and Poſies on the right ſide, and a <hi>Turky</hi> blew; and when they pro<g ref="char:EOLhyphen"/>miſe any thing, they hold up the Thumb, and cloſe the Fiſt: where<g ref="char:EOLhyphen"/>as the <hi>Adorno</hi>'s wear their Hair
+<pb n="70" facs="tcp:33744:38"/> on the left ſide; put their Poſies there, and delight in green; and when they aſſure any thing, they point out the Fore-finger, and cloſe the reſt of the Hand. The <hi>A<g ref="char:EOLhyphen"/>dorno</hi>'s are of the <hi>Spaniſh</hi> facti<g ref="char:EOLhyphen"/>on, and the <hi>Fregozo</hi>'s who are in<g ref="char:EOLhyphen"/>feriour in number, incline to the <hi>French.</hi> Nevertheleſs, the Nobi<g ref="char:EOLhyphen"/>lity of late have withdrawn from theſe Fraternities, and leave the people onely engaged in them, whom they are willing to have divided into many little facti<g ref="char:EOLhyphen"/>ons, that they may not unite againſt the Nobility.</p>
+               <p>I forgot to tell, that there is a Court, which is called <hi>the Court of the Arſenal,</hi>
+                  <note place="margin">The Court of the <hi>Arſenal.</hi>
+                  </note> conſiſting of five Gentlemen and a Chancellour. Their care is to cauſe Galleys to be built, and to have always a certain number ready to be put to Sea.<note place="margin">Excellent building of Galleys.</note> The ſtructure of them is excellent, the Workmen very skil<g ref="char:EOLhyphen"/>ful, and the work perfectly good.
+<pb n="71" facs="tcp:33744:38"/> And to the end that the building of Galleys may not coſt the Re<g ref="char:EOLhyphen"/>publick much, they always build many more than they need; and the ſale of thoſe that are ſuper<g ref="char:EOLhyphen"/>fluous ſupplies the charge of thoſe which are neceſſary. And hence it is that the Squadrons of <hi>Spain, Naples, Sicily</hi> and <hi>Sardinia,</hi> are made up of Galleys built in the <hi>Arſenal</hi> of <hi>Genoa.</hi> And that the prohibition made to them by <hi>M. de St. Olon,</hi> on the part of the <hi>French</hi> King, hath ſtrangely ſtun<g ref="char:EOLhyphen"/>ned them, through the appre<g ref="char:EOLhyphen"/>henſion of being obliged to diſmiſs ſo many able Artiſts that work in their <hi>Arſenal.</hi>
+               </p>
+               <p>They have alſo eſtabliſhed a<g ref="char:EOLhyphen"/>nother Court,<note place="margin">The Court of the borders.</note> which they call <hi>the Court of the Borders,</hi> to take heed that none of the Subjects of the Republick, nor neighbouring Prin<g ref="char:EOLhyphen"/>ces, undertake any works upon the Rivers, ſuch as <hi>Milns, Dykes,</hi> or <hi>Canals,</hi> that may be prejudicial to the Publick.</p>
+               <pb n="72" facs="tcp:33744:39"/>
+               <p>Beſides the Revenue that I have mentioned, there is a certain pub<g ref="char:EOLhyphen"/>lick ſtock, which is called the <hi>Peculio,</hi>
+                  <note place="margin">Peculio.</note> and is a Caſh yearly re<g ref="char:EOLhyphen"/>ſerved and put apart for urgent neceſſities. No man whatſoever can know what it amounts to; that's a ſecret reſerved for the perpetual Procurators, the know<g ref="char:EOLhyphen"/>ledg of it being kept even from the ordinary Procurators; be<g ref="char:EOLhyphen"/>cauſe they who manage the <hi>Pecu<g ref="char:EOLhyphen"/>lio</hi> are accountable to no man, which hath made it to be belie<g ref="char:EOLhyphen"/>ved that they appropriate it to themſelves, as they do the Rents of certain Farms.</p>
+               <p>
+                  <note place="margin">The Govern<g ref="char:EOLhyphen"/>ment as to Proviſions.</note>The <hi>Genoeſe</hi> have an admirable Government as to the regulation of Proviſions and Victuals; that the People may have plenty and at cheap Rates. Their conduct in that particular deſerves not onely to be commended, but alſo imi<g ref="char:EOLhyphen"/>tated by all Princes: and eſpeci<g ref="char:EOLhyphen"/>ally as to Corn and Wine, which
+<pb n="73" facs="tcp:33744:39"/> are as the two Poles on which the life of man turns. They take particular care to have always a ſufficient quantity of both to ſup<g ref="char:EOLhyphen"/>ply the whole City for two years compleat.</p>
+               <p>As to the Corn,<note place="margin">As to Bread.</note> they take this courſe: They have publick Gra<g ref="char:EOLhyphen"/>naries, which are four great ſquare Houſes, with ſeveral vaulted ſto<g ref="char:EOLhyphen"/>ries one over another in each, which are ſo many different Gra<g ref="char:EOLhyphen"/>naries; and which for greater ſe<g ref="char:EOLhyphen"/>curity are encloſed with a Wall that hath but one Gate well guar<g ref="char:EOLhyphen"/>ded. All theſe Granaries together can hold a ſufficient quantity of Corn to ſupply the Town for three years; and as one is empti<g ref="char:EOLhyphen"/>ed, another is filled; with this prudent care, that if it be a plen<g ref="char:EOLhyphen"/>tiful year and the Corn cheap, the Granaries are filled double: and if the year be barren, and the Corn very dear, they ſpend the time with the former Proviſion,
+<pb n="74" facs="tcp:33744:40"/> and wait till the following year to fill them again: So that it is not to be thought ſtrange, if by ſo wiſe a conduct the Bread is no dearer at one time than at ano<g ref="char:EOLhyphen"/>ther; the People being never ſen<g ref="char:EOLhyphen"/>ſible of the barrenneſs of the Earth, which by divine Providence hath never for two years together refuſed to man his ſuſtenance.</p>
+               <p>Out of theſe publick Grana<g ref="char:EOLhyphen"/>naries all the Bakers are obliged to buy their Corn, with which they ſupply the people with bread: and they are prohibited under ſevere Penalties to buy it elſewhere. Private Perſons ne<g ref="char:EOLhyphen"/>vertheleſs are permitted to bake their own bread at home; but ſince bread is at a very reaſonable rate, the Republick being content with a moderate profit, few give themſelves the trouble of making particular proviſions, beſides that the Republick ſets a price upon the Corn according to the plenti<g ref="char:EOLhyphen"/>fulneſs
+<pb n="75" facs="tcp:33744:40"/> of the Crop, and none can buy, till the publick Granaries be firſt ſupplied: And when there is a ſcarcity in <hi>Liguria,</hi> the Magi<g ref="char:EOLhyphen"/>ſtrate appointed for the regulati<g ref="char:EOLhyphen"/>on of Proviſions, cauſes Corn to be brought from <hi>Sicily,</hi> or <hi>Africa,</hi> to be put into the publick Gra<g ref="char:EOLhyphen"/>naries, that the crop of the Coun<g ref="char:EOLhyphen"/>try may be for the uſe of the Country People, the other Towns and private Families.</p>
+               <p>As to Wine,<note place="margin">As to Wine.</note> every private Per<g ref="char:EOLhyphen"/>ſon is allowed to furniſh himſelf, and freely to buy for his provi<g ref="char:EOLhyphen"/>on; but no perſon whoſoever in <hi>Genoa</hi> dares to ſell or retail it out, no not Vintners and they who keep Victualling Houſes; The Republick reſerves to itſelf alone, the right of ſelling Wine by re<g ref="char:EOLhyphen"/>tail, and for the more convenient diſtribution thereof, there is in every quarter a publick Cellar al<g ref="char:EOLhyphen"/>ways full of Wine of two different prices, which never riſe nor fall.</p>
+               <pb n="77" facs="tcp:33744:41"/>
+               <p>
+                  <note place="margin">
+                     <hi>Fondaqui,</hi> publick Cel<g ref="char:EOLhyphen"/>lars.</note>They call theſe publick Cellars <hi>Fondaqui,</hi> over every one of which an Overſeer is put, to whom the Wine is delivered upon account, and who brings the Money that it is ſold for to the publick Caſh. He is ſtrictly prohibited not to after the Wine, either by ming<g ref="char:EOLhyphen"/>ling one ſort with another, or ad<g ref="char:EOLhyphen"/>ding Water; ſtrict inſpection is taken into that; and they are not onely puniſhed by great Fines, but are ſent to the Galleys; ſo that there is ſeldom any complaint made of them. The Cellars are filled as faſt as they are emptied; and the proviſion is always for two years.</p>
+               <p>Though this Policy as to Wine ſeems to be ſomewhat inconve<g ref="char:EOLhyphen"/>nient, and that it would ſeem that Princes who have conſider<g ref="char:EOLhyphen"/>able duties from the retail of Wines in Taverns ought not to approve it, nevertheleſs it hath certainly its advantages, not only
+<pb n="78" facs="tcp:33744:41"/> becauſe it prevents Drunkenneſs, and the diſorders which attend it; but alſo becauſe the profit which the Republick draws from the re<g ref="char:EOLhyphen"/>tailing of Wine, comes clear into the publick ſtock; whereas the duties that in other places are raiſed from Vintners, paſs through ſo many Hands, and to the profit of ſo many Leeches, before they come to the publick Treaſury, that the Prince receives but a very ſmall ſhare of the profit of that Impoſition; beſides that thereby the adulterations and poiſonings of Wine by the Wine-Coopers and Vintners are pre<g ref="char:EOLhyphen"/>vented.</p>
+               <p>Money is reckoned at <hi>Genoa</hi> by <hi>Livres</hi> and <hi>Sols;</hi>
+                  <note place="margin">The Money,</note> but the 20 <hi>ſ.</hi> of <hi>Genoa</hi> are worth but 12 <hi>ſ.</hi> of <hi>France:</hi> and ſo the <hi>ſous</hi> of <hi>Ge<g ref="char:EOLhyphen"/>noa</hi> is but worth ſeven Deniers of <hi>France,</hi> and a fifth Denier; by that reaſon a <hi>French</hi> Crown and Patacoon are there worth five Li<g ref="char:EOLhyphen"/>vres;
+<pb n="80" facs="tcp:33744:42"/> And a <hi>Louis-d'or,</hi> is there valued at 18. 6. <hi>ſ.</hi> 8. <hi>den.</hi> That's to ſay three <hi>Louis d'ors,</hi> are there worth fifty five Livres <hi>Genoeſe</hi> Money.</p>
+               <p>They Coin certain pieces of Silver, which they call <hi>Genuines,</hi>
+                  <note place="margin">Genuines.</note> that are worth ſeven Livres of their Money, which are four Liv. 4 <hi>ſ.</hi> of <hi>France:</hi> they are of a very fine allay, being of eleven De<g ref="char:EOLhyphen"/>niers and ſix grains fine, and the neighbouring States melt them down for Coining their Money which is of a baſer Standard.</p>
+               <p>They have four different Piſtols, which paſs at the ſame value, and which they call the <hi>Quatroſtampe:</hi> theſe are the <hi>Louis-d'ors,</hi> the Pi<g ref="char:EOLhyphen"/>ſtol of <hi>Spain,</hi> the Piſtol of <hi>Genoa,</hi> and that of <hi>Florence,</hi> which are of the ſame weight and Coined of Gold of twenty two Carrats, with two grains of allay. All other Pi<g ref="char:EOLhyphen"/>ſtols are current there, at ſome<g ref="char:EOLhyphen"/>what leſs value. Their <hi>Genuines</hi>
+                  <pb n="81" facs="tcp:33744:42"/> of Silver are in great eſteem in <hi>Savoy,</hi> and paſs as far as <hi>Lyon:</hi> but on this ſide of it, there are few of them to be ſeen, though there be few pieces of coined Silver in <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> that equal them in goodneſs.</p>
+               <p>There are three ſorts of Per<g ref="char:EOLhyphen"/>ſons<note place="margin">Three ſorts of Perſons.</note> in <hi>Genoa:</hi> the leaſt in num<g ref="char:EOLhyphen"/>ber, but the moſt powerful are the Nobles,<note place="margin">The Nobles.</note> who govern the States and poſſeſs great Eſtates, and con<g ref="char:EOLhyphen"/>ſiderable Inheritances in the Ter<g ref="char:EOLhyphen"/>ritories of the Catholick King; which links them cloſe to the Crown of <hi>Spain,</hi> by an indiſpen<g ref="char:EOLhyphen"/>ſable neceſſity of Intereſts. And they who engage not blindly in that ſtronger ſide, have little ſhare in the Government, and cannot but be much diſſatisfied with the preſent State.</p>
+               <p>The ſecond ſort is that of the Merchants,<note place="margin">The Mer<g ref="char:EOLhyphen"/>chants.</note> who mind nothing but their Trade: Theſe have na<g ref="char:EOLhyphen"/>turally a Republican Soul; but they are onely wedded to <hi>Spain</hi>
+                  <pb n="82" facs="tcp:33744:43"/> by the conſideration of the profi<g ref="char:EOLhyphen"/>tableneſs of their Commerce, which if it ſucceeded under the protection of another Sovereign, they would by degrees fall off from the <hi>Spaniards.</hi>
+               </p>
+               <p>They have a pretty good in<g ref="char:EOLhyphen"/>clination to <hi>France,</hi> upon account that they think Juſtice there im<g ref="char:EOLhyphen"/>partially diſtributed without di<g ref="char:EOLhyphen"/>ſtinction of Perſons, whereas at <hi>Genoa</hi> they feel a Tyranny, which is ſo much the more uneaſie, that it increaſes as faſt as the Nobles who compoſe the State do mul<g ref="char:EOLhyphen"/>tiply.</p>
+               <p>The laſt ſort, the weakeſt, and yet the greateſt, is made up of the Populace, the Artificers and the Poor; who not only through the common inclination which miſery gives, deſire a change, in hopes of bettering their condi<g ref="char:EOLhyphen"/>tion: but likewiſe, I may ſay, would be willing to be under the protection of <hi>France,</hi> upon more honourable Motives.</p>
+               <pb n="81" facs="tcp:33744:43"/>
+               <p>All the Forces of <hi>Genoa</hi> conſiſt in ſix Galleys which they con<g ref="char:EOLhyphen"/>ſtantly entertain, and to which of late they have added four new ones, for reaſons well enough known to all <hi>Europe.</hi>
+               </p>
+               <p>They have laid up the two great Men of War which con<g ref="char:EOLhyphen"/>veyed their Merchant Ships for the Trade of <hi>Spain:</hi> And this they have done upon the reſent<g ref="char:EOLhyphen"/>ment of a ſecret diſpleaſure they conceived, and which they ex<g ref="char:EOLhyphen"/>preſſed to Captain <hi>Palavicini,</hi> who going to <hi>Spain</hi> ſuffered his Ships to be viſited. For there is no Nation in the World more haughty and vain than the <hi>Ge<g ref="char:EOLhyphen"/>noeſe.</hi>
+                  <note place="margin">The Pride of the <hi>Genoeſe.</hi>
+                  </note> They are nevertheleſs re<g ref="char:EOLhyphen"/>ſolved to fit out three Men of War, in place of thoſe two which they have unrigged.</p>
+               <p>There are,<note place="margin">Their Ship<g ref="char:EOLhyphen"/>ping.</note> as I have already ſaid, ten or twelve great Ships well equipped belonging to pri<g ref="char:EOLhyphen"/>vate Perſons, wherewith they
+<pb n="82" facs="tcp:33744:44"/> trade into the <hi>Levant,</hi> the Weſt, and <hi>Africa;</hi> and in the two <hi>Ri<g ref="char:EOLhyphen"/>viera's</hi> there are about three hun<g ref="char:EOLhyphen"/>dred Barks great and ſmall, and two hundred Coralines, which are onely employed in fiſhing for Coral upon the Coaſts of <hi>Corſica</hi> and <hi>Sardinia.</hi>
+               </p>
+               <p>The two <hi>Riviera's</hi> or Coaſts of <hi>Liguria</hi> can furniſh ſix or ſeven thouſand good Seamen: And if all the Militia of the main Land were raiſed, it's thought they might amount to fifty or three<g ref="char:EOLhyphen"/>ſcore thouſand vigorous and har<g ref="char:EOLhyphen"/>dy Men able to carry Arms, and who want nothing but diſcipline and exerciſe. On the Weſt ſide the Men are Richer but not ſo Warlike, and thoſe on the Eaſt ſide are poorer but better Soldiers. <hi>Corſica</hi> alſo can furniſh a Militia of fifteen thouſand good Men.</p>
+               <p>There are in <hi>Genoa</hi> an hundred and fifty Families of rich and powerful Nobles, who for moſt
+<pb n="83" facs="tcp:33744:44"/> part follow Merchandiſing; but theſe one hundred and fifty are properly reduced to fourſcore and ten, or thereabouts; for ſome of them are but branches of other Families. As for Merchants, there are at leaſt three hundred very rich Families: They have all ſumptuous Palaces, Country Houſes, delightful Gardens, coſt<g ref="char:EOLhyphen"/>ly Furniture, rich Tapiſtry, much Plate, exquiſite Pictures, excel<g ref="char:EOLhyphen"/>lent Statues, and their Wives are always cloathed in cloth of Gold, covered with Jewels and precious Stones.</p>
+               <p>The Nobility is divided into the Ancient and the new:<note place="margin">Nobility here<g ref="char:EOLhyphen"/>tofore adopt<g ref="char:EOLhyphen"/>ed.</note> the Offices of State are always filled by half of the one and half of the other, and the <hi>Doge</hi> is choſen out of the two by turn. In the year 1528. when <hi>Genoa</hi> having revolt<g ref="char:EOLhyphen"/>ed from <hi>France,</hi> eſtabliſhed a new form of Government, a Regiſter of the Nobility was made, in a
+<pb n="84" facs="tcp:33744:45"/> Book which they called <hi>the Gol<g ref="char:EOLhyphen"/>den Book,</hi> wherein all that were Ancient were recorded. There they inſerted eight and twenty Families which compoſed it. The new Nobility is far more nume<g ref="char:EOLhyphen"/>rous, and was eſtabliſhed by a permiſſion given to the Ancient Nobility to adopt to theſe twenty eight, other <hi>Plebeian</hi> Families. And according to that aggrega<g ref="char:EOLhyphen"/>tion or adoption, they were and are daily ſtill inſerted in the gol<g ref="char:EOLhyphen"/>den Book. It is alſo to be ob<g ref="char:EOLhyphen"/>ſerved that many who were of the Ancient Nobility, having neg<g ref="char:EOLhyphen"/>lected in the year 1528. to cauſe themſelves to be inſerted, have onely place amongſt the new, as the <hi>Juſtiniani:</hi> and that many of the new, for want of inſertion, have loſt their Priviledges, though their Children be without diſpute received at <hi>Malta.</hi>
+               </p>
+               <p>Of the twenty eight Families of the Ancient Nobility, there are
+<pb n="85" facs="tcp:33744:45"/> four which without contradiction are the chief, to wit, the Families of the
+<list>
+                     <item>
+                        <hi>Fieſchi,</hi>
+                     </item>
+                     <item>
+                        <hi>Spinola,</hi>
+                     </item>
+                     <item>
+                        <hi>Grimaldi,</hi>
+                     </item>
+                     <item>
+                        <hi>Doria.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The Houſe of the <hi>Fieſchi's,</hi> whereof <hi>Don John-Louis Mario</hi> who fled into <hi>France</hi> and lives there, is the Head, is at preſent the loweſt of the four in Riches and Power, tho the moſt Noble and Illuſtrious: they deſcend from the Ancient Sovereign Counts of <hi>Lavagra,</hi> who iſſued from the Ancient Dukes of <hi>Bur<g ref="char:EOLhyphen"/>gundy,</hi> whoſe Arms they ſtill re<g ref="char:EOLhyphen"/>tain, having onely changed the Colours, which was heretofore often enough practiſed by youn<g ref="char:EOLhyphen"/>ger Brothers. They poſſeſſed ſe<g ref="char:EOLhyphen"/>veral conſiderable Eſtates in <hi>Italy,</hi> where they were perpetual Vi<g ref="char:EOLhyphen"/>cars of the Empire, Admirals of <hi>Liguria,</hi> and coined Money.
+<pb n="86" facs="tcp:33744:46"/> There have been two Popes of that Family, and an incredible number of Cardinals. The Counts of <hi>Savoy</hi> at preſent Dukes, the Counts of <hi>Montferrat,</hi> and the Dukes of <hi>Milan,</hi> from whom all Chriſtian Princes ſpring by the Mother ſide, have allied with the Houſe of <hi>Fieſchi.</hi> Hiſtories are full of the glorious Exploits of Generals of Armies which it hath produced: but there can be no better proof of the gran<g ref="char:EOLhyphen"/>deur of that illuſtrious Family, than the priviledges which were preſerved to it in a Treaty of Peace made by advice of the Duke of <hi>Milan</hi> in the year 1453. betwixt the Count <hi>Philip</hi> the chief of that Houſe, and the Re<g ref="char:EOLhyphen"/>publick of <hi>Genoa;</hi> wherein amongſt other Articles it is agreed upon, that he ſhall always have place by the ſide of the <hi>Doge,</hi> and the ſame honours; that moſt part of Offices ſhall be granted, one half
+<pb n="87" facs="tcp:33744:46"/> by the <hi>Doge,</hi> and the other half by the Count of <hi>Fieſchi;</hi> that he ſhall eſtabliſh as well as the <hi>Doge,</hi> his Notaries, and Podeſtats; and that he ſhall have his Forces and Gariſons.</p>
+               <p>Theſe four chief Families have been always divided into two Parties:<note place="margin">The diviſion of the four Families.</note> The <hi>Fieſchi's</hi> and <hi>Gri<g ref="char:EOLhyphen"/>maldi's</hi> have ſupported the fa<g ref="char:EOLhyphen"/>ction of the <hi>Guelphs,</hi> and eſpouſed the Intereſts of <hi>France:</hi> but the <hi>Spinola's</hi> and <hi>Doria's</hi> have ſided with the <hi>Gibellin</hi> Party, and ſticking cloſe to <hi>Spain,</hi> have ac<g ref="char:EOLhyphen"/>quired two Grandeeſhips in it, ſeeing the Prince of <hi>Melfi</hi> and the Duke of <hi>Turſis</hi> Grandees of <hi>Spain,</hi> are of the Houſe of <hi>Doria:</hi> and the Marqueſs <hi>de los Balbaces,</hi> and the Duke of <hi>San-pietro</hi> are of the Family of <hi>Spinola.</hi> As for the <hi>Grimaldi,</hi> it is above ſix hundred years ſince the Head of their Family was Sovereign of <hi>Monaco:</hi> but the <hi>Fieſchi's</hi> have
+<pb n="88" facs="tcp:33744:47"/> been ſtrip'd of all ſince the en<g ref="char:EOLhyphen"/>terpriſe of the year 1547. And they have no more now remain<g ref="char:EOLhyphen"/>ing but the hopes of the <hi>French</hi> King's protection, to reſtore them to their Eſtates unjuſtly uſurped.</p>
+               <p>The other four and twenty Families of the Ancient Nobility are the Families of the
+<list>
+                     <item>
+                        <hi>Cibo,</hi>
+                     </item>
+                     <item>
+                        <hi>Lomellini,</hi>
+                     </item>
+                     <item>
+                        <hi>Roeres,</hi>
+                     </item>
+                     <item>
+                        <hi>Negrons,</hi>
+                     </item>
+                     <item>
+                        <hi>Catanees,</hi>
+                     </item>
+                     <item>
+                        <hi>Palavicins,</hi>
+                     </item>
+                     <item>
+                        <hi>Imperiali,</hi>
+                     </item>
+                     <item>
+                        <hi>Centurions,</hi>
+                     </item>
+                     <item>
+                        <hi>Mari,</hi>
+                     </item>
+                     <item>
+                        <hi>Serra,</hi>
+                     </item>
+                     <item>
+                        <hi>Piquenots,</hi>
+                     </item>
+                     <item>
+                        <hi>Leccari,</hi>
+                     </item>
+                     <item>
+                        <hi>Salvaggi,</hi>
+                     </item>
+                     <item>
+                        <hi>Pavezes,</hi>
+                     </item>
+                     <item>
+                        <hi>Cigales,</hi>
+                     </item>
+                     <item>
+                        <hi>Rapaſquieres,</hi>
+                     </item>
+                     <item>
+                        <hi>Pinelles,</hi>
+                     </item>
+                     <item>
+                        <hi>Marini,</hi>
+                     </item>
+                     <item>
+                        <hi>Grilli,</hi>
+                     </item>
+                     <item>
+                        <hi>Gentilli,</hi>
+                     </item>
+                     <item>
+                        <hi>Negri,</hi>
+                     </item>
+                     <item>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>ſodimari,</hi>
+                     </item>
+                     <item>
+                        <hi>Malaſpini,</hi>
+                     </item>
+                     <item>
+                        <hi>Vivaldi.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>And amongſt the Families of the new Nobility, there are four Chief, which vie in Quality
+<pb n="89" facs="tcp:33744:47"/> with thoſe of the Ancient; and theſe are</p>
+               <p>The
+<list>
+                     <item>
+                        <hi>Juſtiniani,</hi>
+                     </item>
+                     <item>
+                        <hi>Sauli,</hi>
+                     </item>
+                     <item>
+                        <hi>Franchi,</hi>
+                     </item>
+                     <item>
+                        <hi>Fornaci.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The others that came to my khowledg during my abode in <hi>Genoa,</hi> are the
+<list>
+                     <item>
+                        <hi>Adorni,</hi>
+                     </item>
+                     <item>
+                        <hi>Inbrees,</hi>
+                     </item>
+                     <item>
+                        <hi>Saluzzi,</hi>
+                     </item>
+                     <item>
+                        <hi>Franzoni,</hi>
+                     </item>
+                     <item>
+                        <hi>Federici,</hi>
+                     </item>
+                     <item>
+                        <hi>Paggi,</hi>
+                     </item>
+                     <item>
+                        <hi>Viali,</hi>
+                     </item>
+                     <item>
+                        <hi>Doughi,</hi>
+                     </item>
+                     <item>
+                        <hi>Torilles,</hi>
+                     </item>
+                     <item>
+                        <hi>Cazelles,</hi>
+                     </item>
+                     <item>
+                        <hi>Balbi,</hi>
+                     </item>
+                     <item>
+                        <hi>Raggi,</hi>
+                     </item>
+                     <item>
+                        <hi>Torre,</hi>
+                     </item>
+                     <item>
+                        <hi>Duraz,</hi>
+                     </item>
+                     <item>
+                        <hi>Baſſadone,</hi>
+                     </item>
+                     <item>
+                        <hi>Carmagnoles,</hi>
+                     </item>
+                     <item>
+                        <hi>Zoagli,</hi>
+                     </item>
+                     <item>
+                        <hi>Brignoles,</hi>
+                     </item>
+                     <item>
+                        <hi>Balians,</hi>
+                     </item>
+                     <item>
+                        <hi>Odons,</hi>
+                     </item>
+                     <item>
+                        <hi>Sophranes,</hi>
+                     </item>
+                     <item>
+                        <hi>Carpenius,</hi>
+                     </item>
+                     <item>
+                        <hi>Gropallo,</hi>
+                     </item>
+                     <item>
+                        <hi>Scaglia,</hi>
+                     </item>
+                     <item>
+                        <hi>Tiſcornes,</hi>
+                     </item>
+                     <item>
+                        <hi>Moneilles,</hi>
+                     </item>
+                     <item>
+                        <hi>Caſtagnoles,</hi>
+                     </item>
+                     <item>
+                        <hi>Morans,</hi>
+                     </item>
+                     <pb n="90" facs="tcp:33744:48"/>
+                     <item>
+                        <hi>Foſſes,</hi>
+                     </item>
+                     <item>
+                        <hi>Androvins,</hi>
+                     </item>
+                     <item>
+                        <hi>Biaſſes,</hi>
+                     </item>
+                     <item>
+                        <hi>Prato,</hi>
+                     </item>
+                     <item>
+                        <hi>Coſtaguts,</hi>
+                     </item>
+                     <item>
+                        <hi>Guani,</hi>
+                     </item>
+                     <item>
+                        <hi>Garibaldi,</hi>
+                     </item>
+                     <item>
+                        <hi>Caze,</hi>
+                     </item>
+                     <item>
+                        <hi>Pietra-Rag<g ref="char:EOLhyphen"/>gia,</hi>
+                     </item>
+                     <item>
+                        <hi>Garbarins,</hi>
+                     </item>
+                     <item>
+                        <hi>Mercanti,</hi>
+                     </item>
+                     <item>
+                        <hi>Levanti,</hi>
+                     </item>
+                     <item>
+                        <hi>Calvi,</hi>
+                     </item>
+                     <item>
+                        <hi>Clavezani,</hi>
+                     </item>
+                     <item>
+                        <hi>Ferrari,</hi>
+                     </item>
+                     <item>
+                        <hi>Ricci,</hi>
+                     </item>
+                     <item>
+                        <hi>Poveroto,</hi>
+                     </item>
+                     <item>
+                        <hi>Gritta,</hi>
+                     </item>
+                     <item>
+                        <hi>Taſſo,</hi>
+                     </item>
+                     <item>
+                        <hi>Caregges,</hi>
+                     </item>
+                     <item>
+                        <hi>Reſtoro,</hi>
+                     </item>
+                     <item>
+                        <hi>Monzia,</hi>
+                     </item>
+                     <item>
+                        <hi>Maineri,</hi>
+                     </item>
+                     <item>
+                        <hi>Oliva,</hi>
+                     </item>
+                     <item>
+                        <hi>Anſaldi,</hi>
+                     </item>
+                     <item>
+                        <hi>Nuovo Paffiiani,</hi>
+                     </item>
+                     <item>
+                        <hi>Gievardi,</hi>
+                     </item>
+                     <item>
+                        <hi>Airoldi.</hi>
+                     </item>
+                     <item>
+                        <hi>Paſſaggi,</hi>
+                     </item>
+                     <item>
+                        <hi>Chiavari.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Others there may be, of which I have not been informed.</p>
+               <p>The Cuſtom-Houſe is always provided of all ſorts of Commo<g ref="char:EOLhyphen"/>dities, as Silk, Sugars, Spice, cloth of Gold, ſilken and wool<g ref="char:EOLhyphen"/>len Stuffs, and of every thing that neceſſity or luxury requires.</p>
+               <p>The Port is much frequented by <hi>Engliſh</hi> and <hi>Dutch,</hi> who trade
+<pb n="91" facs="tcp:33744:48"/> with the City of <hi>Genoa,</hi> in Silks, Oil, Velvet, Damask, Honey, Wax, and Commodities of the <hi>Levant.</hi>
+               </p>
+               <p>The moſt conſiderable Forts of the <hi>Terra firma</hi> or main Land are <hi>Savona, Gavi, Sarzana,</hi> and the Fort St. <hi>Marie,</hi> in the Gulf <hi>delle Spetie;</hi> and in <hi>Corſica</hi> they have <hi>Calvi, Boniface,</hi> and <hi>Aiazzo;</hi> but the whole State hath not both by Sea and Land ſix hun<g ref="char:EOLhyphen"/>dred Piece of braſs Cannon.</p>
+               <p>The Gariſon of <hi>Genoa</hi> exceeds not two thouſand five hundred Men,<note place="margin">This was writ<g ref="char:EOLhyphen"/>ten before <hi>Genoa</hi> was Bombed by the <hi>French.</hi>
+                  </note> who have never ſeen the fire of an Enemy nor a Mortar-piece play; its Walls towards the Land ſide and Mountains, are two <hi>French</hi> Leagues in extent, they make a double encloſure, of which the outermoſt is almoſt wholly cut out of the Rock, but the Ditch of it is narrow and ſhal<g ref="char:EOLhyphen"/>low, and the Covert-way is ſo far from being large, that two
+<pb n="92" facs="tcp:33744:49"/> Men cannot paſs it a breaſt, be<g ref="char:EOLhyphen"/>ſides that the Works which de<g ref="char:EOLhyphen"/>fend the Town, the Gates and Poſts which of neceſſity muſt be furniſhed, require as many to defend it, as are neceſſary to at<g ref="char:EOLhyphen"/>tack the ſame.</p>
+               <p>In bringing ſuccours from the <hi>Milaneſe,</hi> there is a neceſſity of marching through a great many narrow paſſes, in the Mountains that divide their States, and two or three thouſand Dragoons poſt<g ref="char:EOLhyphen"/>ed in the avenues of theſe Paſſes, would be enough to hinder all relief: Men may land not onely without Muſquet ſhot, but it is eaſie for them alſo in landing to lodge under Covert, either on the ſide of <hi>Bizagne,</hi> or on the ſide of S. <hi>Peter des Arenes.</hi> Batteries may be raiſed betwixt the <hi>Fanal</hi> and the new Mole without the reach of any aſſault, which would bat<g ref="char:EOLhyphen"/>ter down the City on all ſides; beſides, there is nothing more
+<pb n="93" facs="tcp:33744:49"/> eaſie, than to cut the Aqueducts which make the <hi>Milns</hi> to go and furniſh the City with freſh water, ſo that the People without Bread and Water, ſtarved with hunger and thirſt, would quickly cry for Peace, the whole City is alſo full of common Sewers and ſubterra<g ref="char:EOLhyphen"/>nean Vaults which diſcharge themſelves into the Sea, and no<g ref="char:EOLhyphen"/>thing hinders but Mines and o<g ref="char:EOLhyphen"/>ther Engines may be made to play, which would overthrow the Walls that croſs thoſe Sewers, and make in them as many breaches as might be thought fit: from whence it may be conclu<g ref="char:EOLhyphen"/>ded that that City is ſupported more by its name, haughtineſs, and outward appearance, than by any ſolid ſtrength.</p>
+               <p>That Republick then, though exceeding rich, is notwithſtand<g ref="char:EOLhyphen"/>ing in it ſelf very weak for two reaſons: Firſt, Becauſe the pro<g ref="char:EOLhyphen"/>found Peace it hath for a long
+<pb n="94" facs="tcp:33744:50"/> time enjoyed, has inured the People to ſoftneſs and luxury; and ſecondly, becauſe though the private Perſons be extreme weal<g ref="char:EOLhyphen"/>thy, yet the Revenues of the State are but very moderate, and it is no eaſie matter in Common-wealths to impoſe new Taxes for defraying the charges of War, which always diſpleaſes the Peo<g ref="char:EOLhyphen"/>ple who are naturally inclined to reſt. But to remedy this weak<g ref="char:EOLhyphen"/>neſs which the <hi>Genoeſe</hi> themſelves are ſenſible enough of, they are ſo ſtraitly linked in Intereſt with the <hi>Spaniards,</hi> that they will al<g ref="char:EOLhyphen"/>ways be ſupported with all the Forces of that Kingdom. That ſtrict Alliance is founded not onely, on what I have already ſaid, of the great Eſtates which the <hi>Genoeſe</hi> poſſeſs in the Terri<g ref="char:EOLhyphen"/>tories of the Catholick King; but alſo becauſe the <hi>Milaneſe</hi> borders upon the States of <hi>Ge<g ref="char:EOLhyphen"/>noa;</hi> and that <hi>Final,</hi>
+                  <note place="margin">Final.</note> which be<g ref="char:EOLhyphen"/>longs
+<pb n="95" facs="tcp:33744:50"/> to the <hi>Spaniards,</hi> is a place apart, and ſituated betwixt <hi>Al<g ref="char:EOLhyphen"/>begnao</hi> and <hi>Savona,</hi> in the middle of the States of this Republick, which inviron it on all hands: ſo that <hi>Milan</hi> can have no commu<g ref="char:EOLhyphen"/>nication with that important Maritime place, but by paſſing through the Lands of <hi>Genoa,</hi> which are bordered on the Weſt by the Mountains of <hi>Piemont;</hi>
+                  <note place="margin">The limits of the State of <hi>Genoa.</hi>
+                  </note> on the North by <hi>Montferrat</hi> and the <hi>Milaneſe;</hi> on the Eaſt by the States of the Dukes of <hi>Florence</hi> and <hi>Parma;</hi> and on the South, by the Sea of <hi>Liguria.</hi>
+               </p>
+               <p>Some time before the <hi>Pyrenean</hi> Peace, the <hi>Spaniards</hi> fearing that the <hi>French</hi> might ſeize <hi>Final,</hi> propoſed to ſell it to the <hi>Genoeſe:</hi> the price was agreed upon;<note place="margin">
+                     <hi>Genoa</hi> bar<g ref="char:EOLhyphen"/>gains for <hi>Final.</hi>
+                  </note> but the Marqueſs <hi>de los Balbaces</hi> a Grandee of <hi>Spain</hi> of the Houſe of <hi>Spinola,</hi> as a faithful Subject, preferring the Intereſt of the King he ſerved, before that of his own
+<pb n="96" facs="tcp:33744:51"/> Country, oppoſed it. He was Counſellour of State for the Af<g ref="char:EOLhyphen"/>fairs of <hi>Italy,</hi> and with much vigour and ſtedfaſtneſs he repre<g ref="char:EOLhyphen"/>ſented, that if <hi>Final</hi> were aban<g ref="char:EOLhyphen"/>doned, and the <hi>Genoeſe</hi> ſhould afterwards break with <hi>Spain,</hi> it would be impoſſible to ſend re<g ref="char:EOLhyphen"/>lief in to the <hi>Milaneſe:</hi> but that if the <hi>Genoeſe</hi> ſhould abandon <hi>Spain,</hi> relief might always be ſent by <hi>Final,</hi> and <hi>Montferrat,</hi> with<g ref="char:EOLhyphen"/>out being obliged to them. His reaſons were good, becauſe at that time <hi>Montferrat</hi> was not in the hands of the <hi>French:</hi> but if at preſent <hi>Genoa</hi> abandoned <hi>Spain, Milan</hi> would be without relief; becauſe to go from <hi>Final</hi> to <hi>Mi<g ref="char:EOLhyphen"/>lan, Montferrat</hi> being ſhut, there is a neceſſity of paſſing through the State of <hi>Genoa.</hi> The advice of <hi>Los Balbaces</hi> was followed:<note place="margin">And is diſap<g ref="char:EOLhyphen"/>pointed.</note> the Treaty of <hi>Final</hi> was broken off; and the <hi>Genoeſe</hi> thereupon conceived ſo great indignation
+<pb n="97" facs="tcp:33744:51"/> againſt <hi>Balbaces</hi> their Country<g ref="char:EOLhyphen"/>man, that they deprived him of all his priviledges, which were to go with his Servants armed, to have the Cuſhion at Church, and to be viſited by the Nobility without the permiſſion of the <hi>Doge:</hi> which obliged him whol<g ref="char:EOLhyphen"/>ly to renounce <hi>Genoa,</hi> and to ſettle in <hi>Spain.</hi>
+               </p>
+               <p>
+                  <hi>Final</hi> then, is one of the chief links that unites <hi>Genoa</hi> with the Catholick King. Nevertheleſs, what Efforts ſoever <hi>Spain</hi> makes in favour of that Republick, yet it can give them but very mode<g ref="char:EOLhyphen"/>rate aſſiſtances by Land; becauſe it can onely help them with the Forces of the <hi>Milaneſe</hi> which it dares not ungariſon. But by Sea it can defend them with all the Galleys of the Squadrons of <hi>Naples, Sicily, Sardinia</hi> and <hi>Spain.</hi> So that provided a powerful Prince who intended to attack <hi>Genoa,</hi> had a Fleet ſtrong enough
+<pb n="98" facs="tcp:33744:52"/> to give a check to the Naval forces of <hi>Spain,</hi> it would be eaſie for him by <hi>Piemont</hi> and <hi>Montferrat</hi> to aſſault that Republick by Land, and in a ſhort time to triumph over its pride, with a ſmaller number of men than one may imagine; and ſo much the rather that Commerce being the Soul of that Republick, a Fleet cruiſing before their Harbours, would no ſooner interrupt their Trade, but that the People and Artificers would be reduced to extremity; beſides that <hi>Genoa,</hi> the Country furniſhing but very little Corn, is obliged to ſupply it ſelf from <hi>Sicily</hi> and <hi>Africa</hi> by Sea; and that finding themſelves beſieged by Land, and blocked up by Sea, with little relief from the Forces of the <hi>Milaneſe,</hi> and out of con<g ref="char:EOLhyphen"/>dition of being revictualled from any where elſe, it would quickly be reduced to the laſt pinch, ha<g ref="char:EOLhyphen"/>ving but very few ſtanding Sol<g ref="char:EOLhyphen"/>diers,
+<pb n="99" facs="tcp:33744:52"/> and the Militia of the Coun<g ref="char:EOLhyphen"/>try altogether undiſciplined.</p>
+               <p>But if the Nobility as well as People of <hi>Genoa,</hi> could be once cleared of the falſe notions they have conceived of a Government contrary to that under which they live; if once they could be perſuaded that the Republican yoke gives inſtead of one lawful Maſter, an hundred inſatiable Tyrants, that it is a <hi>Hydra</hi> of many Heads, which ſeldom agree in their reſolutions; that a King governs alone, in imitation of the Deity; whereas popular Aſ<g ref="char:EOLhyphen"/>ſemblies are for the moſt part but a confuſed <hi>Babylon;</hi> that by an inclination of Nature which tends always to perfection, all Repub<g ref="char:EOLhyphen"/>licks ſoon or late terminate in a Monarchy, as heretofore <hi>Rome,</hi> and <hi>Florence</hi> in later days furniſh the <hi>Genoeſe</hi> with almoſt a dome<g ref="char:EOLhyphen"/>ſtick inſtance: if they would alſo call to mind that they freely
+<pb n="100" facs="tcp:33744:53"/> gave themſelvs over to <hi>Charles</hi> VI. and his Succeſſours upon condi<g ref="char:EOLhyphen"/>tions religiouſly obſerved on the part of our Kings, who by con<g ref="char:EOLhyphen"/>ſequent are their true and lawful Sovereigns: If to all theſe Rea<g ref="char:EOLhyphen"/>ſons, they added ſerious refle<g ref="char:EOLhyphen"/>ctions upon the incomparable Virtues of the greateſt King that ever <hi>France</hi> had; and that touch<g ref="char:EOLhyphen"/>ed with a remorſe for a revolt that made them ſhake off his Dominion, they would ſincerely return under his Royal Protecti<g ref="char:EOLhyphen"/>on, to what pitch of grandeur might not that rich Republick advance? what Traffick might not the <hi>Genoeſe</hi> aſpire to, under the triumphant banner of <hi>France?</hi> and what <hi>Corſaires</hi> durſt appear in the <hi>Mediterranean,</hi> when our Squadrons joined to twenty Gal<g ref="char:EOLhyphen"/>leys that <hi>Genoa</hi> might entertain, ſhould cruiſe from <hi>Europe</hi> to <hi>A<g ref="char:EOLhyphen"/>frica</hi> againſt theſe infeſters of the Seas?</p>
+               <pb n="101" facs="tcp:33744:53"/>
+               <p>I ſay that <hi>Genoa,</hi> which com<g ref="char:EOLhyphen"/>monly ſends out but ſix Galleys, might eaſily maintain not onely twenty, but alſo ſix men of War at leaſt; to convey their Merchant Ships, if that Republick were again under the protection of the Kings of <hi>France:</hi> for ſeeing then they could have no cauſe to fear a War from their Neighbours, all their Revenues might be wholly employed in Navigation, that they might become Maſters of all the Trade of the <hi>Mediterra<g ref="char:EOLhyphen"/>nean,</hi> and ſucceſsfully carry it on as far as the Eaſt and Weſt <hi>Indies.</hi> And as the Nobles of <hi>Genoa</hi> are extraordinarily rich, and have no leſs Wit and Courage than Wealth, what employments might not they render themſelves capable of under a King, who with wonderful exactneſs knows how to diſcern the merit of his Sub<g ref="char:EOLhyphen"/>jects, and who would furniſh them with continual occaſions of cul<g ref="char:EOLhyphen"/>tivating
+<pb n="102" facs="tcp:33744:54"/> a <hi>genius,</hi> that is daſtar<g ref="char:EOLhyphen"/>dized by pleaſures, and of em<g ref="char:EOLhyphen"/>ploying a Courage, which by an unactive Peace languiſhes in idle<g ref="char:EOLhyphen"/>neſs? The principal Dignities of the State, the higheſt Commands in the Army the conſiderable Of<g ref="char:EOLhyphen"/>fices of the Kingdom, would be as much the recompences of their merit, as of their ſincere ſubmiſ<g ref="char:EOLhyphen"/>ſions; and it would be a pleaſant thing to ſee them ſhare in the good fortune and glory of a State, whoſe Intereſts would go hand in hand with their own. <hi>Genoa</hi> and <hi>Marſeilles</hi> united under the Standard of the <hi>Flower-de-luce,</hi> would give the Law from <hi>Cadiz</hi> to the <hi>Dardanelles,</hi> keep all <hi>Barbary</hi> in awful reſpect, and make the <hi>Sul<g ref="char:EOLhyphen"/>tan,</hi> tremble even in the <hi>Seraglio</hi> of <hi>Conſtantinople.</hi> The Treaſures of the <hi>Ligurians,</hi> would daily in<g ref="char:EOLhyphen"/>creaſe by the free Trade that they might have in their own hands: and that great Commerce draw<g ref="char:EOLhyphen"/>ing
+<pb n="103" facs="tcp:33744:54"/> into the Coffers of the King's Subjects all the Money of <hi>Europe,</hi> would render his own the more inexhauſtible for the enlarge<g ref="char:EOLhyphen"/>ment of that high Power to which his Virtues buoyed up by extraordinary fortune have raiſed him. May Heavens grant that that invincible Monarch may reunite to his Crown that pre<g ref="char:EOLhyphen"/>cious Flower, which a revolt heretofore ſtruck out of it, and that <hi>Louis the Great</hi> and the <hi>Ge<g ref="char:EOLhyphen"/>noeſe</hi> may contend who ſhall have the better on't; he by Clemency, and they by profound Submiſ<g ref="char:EOLhyphen"/>ſions.</p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
